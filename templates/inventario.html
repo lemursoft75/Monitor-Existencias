@@ -15,6 +15,31 @@
     <div class="container py-4">
         <h1 class="mb-4 text-primary text-center">📦 Monitor de Existencias Reyma del Sureste</h1>
 
+        <div class="card mb-4">
+          <div class="card-body">
+            <h5 class="card-title text-secondary">🧭 Instrucciones de uso</h5>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <strong>1. Cargar archivo <span class="text-warning">Minimos</span>:</strong> Define el mínimo por clave. Formato esperado:
+                <code>clave, descripcion, minimo</code>. Solo vuelve a subirlo si hay cambios.
+              </li>
+              <li class="list-group-item">
+                <strong>2. Cargar archivo <span class="text-success">Existencia Real</span>:</strong> Proporciona las cantidades reales.
+                Se toma la columna <strong>6</strong> como <code>Final Estimado</code>.
+              </li>
+              <li class="list-group-item">
+                <strong>3. Revisar Alertas:</strong> Se mostrarán productos con cantidad ≤ mínimo.
+              </li>
+              <li class="list-group-item">
+                <strong>4. Exportar:</strong> Descarga los resultados detectados en formato Excel.
+              </li>
+              <li class="list-group-item">
+                <strong>5. Limpiar existencias:</strong> Elimina solo el archivo <code>existencia_real.xlsx</code>. El archivo de mínimos permanece guardado.
+              </li>
+            </ul>
+          </div>
+        </div>
+
         {% if mensaje_success %}
             <div class="alert alert-success text-center">
                 {{ mensaje_success }}
