@@ -1,0 +1,2652 @@
+[
+    {
+        "clave": "CH855MAR",
+        "descripcion": "CHAROLA TERMICA 855 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 7276.577777777778
+    },
+    {
+        "clave": "CH066MAR",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 4437.333333333333
+    },
+    {
+        "clave": "CH855MARCS",
+        "descripcion": "CHAROLA TERMICA 855 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 2503.422222222222
+    },
+    {
+        "clave": "VT1LT",
+        "descripcion": "VASO TERMICO NO. 1 LITRO REYMA 20 PAQ. / 15 PZAS.",
+        "minimo": 2438.355555555556
+    },
+    {
+        "clave": "VP8",
+        "descripcion": "VASO POLIPRO NO. 8 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 1678.8000000000002
+    },
+    {
+        "clave": "VP10",
+        "descripcion": "VASO POLIPRO NO. 10 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 1651.7777777777778
+    },
+    {
+        "clave": "CH066MARCS",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 1409.288888888889
+    },
+    {
+        "clave": "TVT1LTR",
+        "descripcion": "TAPA RANURADA P/VASO TERMICO 1 Y 1/2 LITRO REYMA 20PAQ/25 PZAS",
+        "minimo": 1288.0
+    },
+    {
+        "clave": "VT10",
+        "descripcion": "VASO TERMICO NO. 10 REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 1199.7333333333333
+    },
+    {
+        "clave": "PT006",
+        "descripcion": "PLATO TERMICO 006 REYMA 20 PAQ/25 PZAS",
+        "minimo": 1186.177777777778
+    },
+    {
+        "clave": "CNH10P",
+        "descripcion": "CONTENEDOR TERMICO P/HAMBURGUESA REYMA 10 PAQ/50 PZAS",
+        "minimo": 1118.888888888889
+    },
+    {
+        "clave": "VT1/2LT",
+        "descripcion": "VASO TERMICO NO. 1/2 LITRO REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 1109.4666666666667
+    },
+    {
+        "clave": "VP12",
+        "descripcion": "VASO POLIPRO NO. 12 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 1079.2444444444445
+    },
+    {
+        "clave": "PH8",
+        "descripcion": "PLATO TERMICO PH8 REYMA 20 PAQ/25 PZAS",
+        "minimo": 1055.7777777777778
+    },
+    {
+        "clave": "CN7X7L4P",
+        "descripcion": "CONTENEDOR TERMICO 7X7 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 1018.4000000000001
+    },
+    {
+        "clave": "VP51/2",
+        "descripcion": "VASO POLIPRO NO. 5 1/2 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 988.7555555555555
+    },
+    {
+        "clave": "CH855MARAJ",
+        "descripcion": "CHAROLA TERMICA 855 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 954.0888888888888
+    },
+    {
+        "clave": "CFI38C10M06004RSU1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 38 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 914.7329629629629
+    },
+    {
+        "clave": "PT9D",
+        "descripcion": "CHAROLA TERMICA 9 DIVISION REYMA 20 PAQ/25 PZAS",
+        "minimo": 890.0
+    },
+    {
+        "clave": "CN7X7D4P",
+        "descripcion": "CONTENEDOR TERMICO 7X7 DIVISION REYMA 4 PAQ/50 PZAS",
+        "minimo": 872.6222222222223
+    },
+    {
+        "clave": "CN7X7L4PSC",
+        "descripcion": "CONTENEDOR TERMICO 7X7 LISO REYMA EN BOLSA 4 PAQ/50 PZAS",
+        "minimo": 848.5777777777778
+    },
+    {
+        "clave": "CN7X7D4PSC",
+        "descripcion": "CONTENEDOR TERMICO 7X7 DIVISION REYMA EN BOLSA 4 PAQ/50 PZAS",
+        "minimo": 843.8666666666667
+    },
+    {
+        "clave": "CN9X9L4P",
+        "descripcion": "CONTENEDOR TERMICO 9X9 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 827.5111111111112
+    },
+    {
+        "clave": "CH855MABIO",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 855 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 810.2666666666667
+    },
+    {
+        "clave": "BAFK2550",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA 25 X 50 25 PAQ/1 KG",
+        "minimo": 779.1111111111111
+    },
+    {
+        "clave": "CFI45C10M06004RSU1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 45 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 762.9959259259259
+    },
+    {
+        "clave": "CN8X8L4PSC",
+        "descripcion": "CONTENEDOR TERMICO 8X8 LISO REYMA EN BOLSA 4 PAQ/50 PZAS",
+        "minimo": 746.1333333333333
+    },
+    {
+        "clave": "DH300N04P24B096",
+        "descripcion": "PAPEL HIGIENICO KOVU 300 HOJAS 24 PAQ/4 ROLLOS",
+        "minimo": 700.088888888889
+    },
+    {
+        "clave": "VP16L",
+        "descripcion": "VASO POLIPRO NO. 16 LARGO REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 654.7111111111111
+    },
+    {
+        "clave": "VT8",
+        "descripcion": "VASO TERMICO NO. 8 REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 652.5333333333333
+    },
+    {
+        "clave": "BAFK2540",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA 25 X 40 25 PAQ/1 KG",
+        "minimo": 646.8888888888889
+    },
+    {
+        "clave": "VP32EU",
+        "descripcion": "VASO POLIPRO NO. 32 EU REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 638.088888888889
+    },
+    {
+        "clave": "CN8X8L4P",
+        "descripcion": "CONTENEDOR TERMICO 8X8 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 633.4666666666667
+    },
+    {
+        "clave": "CFI30C12M15006BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 30 X 1500 CAL 12 TUBO 6 MM 1 ROLLO",
+        "minimo": 609.7694444444444
+    },
+    {
+        "clave": "CH066MARAJ",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 608.6222222222223
+    },
+    {
+        "clave": "VT12",
+        "descripcion": "VASO TERMICO NO. 12 REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 589.6888888888889
+    },
+    {
+        "clave": "CH066MABIO",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 066 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 575.7333333333333
+    },
+    {
+        "clave": "CN8X8D4PSC",
+        "descripcion": "CONTENEDOR TERMICO 8X8 DIVISION REYMA EN BOLSA 4 PAQ/50 PZAS",
+        "minimo": 562.9777777777778
+    },
+    {
+        "clave": "VP14",
+        "descripcion": "VASO POLIPRO NO. 14 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 562.0
+    },
+    {
+        "clave": "BPRCH2535",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 25 X 35",
+        "minimo": 547.2285555555554
+    },
+    {
+        "clave": "BAFK3060",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA 30 X 60 25 PAQ/1 KG",
+        "minimo": 508.0
+    },
+    {
+        "clave": "BBCK2030",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 20 X 30 25 PAQ/1 KG",
+        "minimo": 505.59999999999997
+    },
+    {
+        "clave": "CH855MARYK",
+        "descripcion": "CHAROLA TERMICA 855 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 498.9333333333333
+    },
+    {
+        "clave": "VP16A",
+        "descripcion": "VASO POLIPRO NO. 16 ANCHO REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 492.44444444444446
+    },
+    {
+        "clave": "CN8X8D4P",
+        "descripcion": "CONTENEDOR TERMICO 8X8 DIVISION REYMA 4 PAQ/50 PZAS",
+        "minimo": 475.0666666666667
+    },
+    {
+        "clave": "RB180",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-180 REYMA 1 PAQ/250 PZAS",
+        "minimo": 472.1777777777778
+    },
+    {
+        "clave": "CHLTQ",
+        "descripcion": "CHAROLA TERMICA LA TAQUERA 10 PAQ/50 PZAS",
+        "minimo": 462.1777777777778
+    },
+    {
+        "clave": "VP6",
+        "descripcion": "VASO POLIPRO NO. 6 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 459.28888888888895
+    },
+    {
+        "clave": "BAR2535",
+        "descripcion": "BOLSA ALTA ROLLO 25 X 35",
+        "minimo": 452.9715111111111
+    },
+    {
+        "clave": "VP4CH",
+        "descripcion": "VASO POLIPRO NO. 4 CHICO REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 442.7555555555556
+    },
+    {
+        "clave": "BBCK2535",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 25 X 35 25 PAQ/1 KG",
+        "minimo": 431.2888888888889
+    },
+    {
+        "clave": "CH835",
+        "descripcion": "CHAROLA TERMICA 835 REYMA 10 PAQ/50 PZAS",
+        "minimo": 408.6222222222222
+    },
+    {
+        "clave": "CH066MARYK",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 405.73333333333335
+    },
+    {
+        "clave": "TTVT1LT",
+        "descripcion": "TAPA TERMICA P/VASO TERMICO 1 Y 1/2 LITRO REYMA 10 PAQ/50 PZAS",
+        "minimo": 397.5111111111111
+    },
+    {
+        "clave": "BPF2540",
+        "descripcion": "BOLSA POLISEDA FUELLE 25 X 40 25 PAQ/1 KG",
+        "minimo": 389.4222222222222
+    },
+    {
+        "clave": "BPF2550",
+        "descripcion": "BOLSA POLISEDA FUELLE 25 X 50 25 PAQ/1 KG",
+        "minimo": 377.5111111111111
+    },
+    {
+        "clave": "CN9X9D4P",
+        "descripcion": "CONTENEDOR TERMICO 9X9 DIVISION REYMA 4 PAQ/50 PZAS",
+        "minimo": 363.6
+    },
+    {
+        "clave": "POCES26BIO",
+        "descripcion": "POPOTE BIODEGRADABLE CAJA ESTUCHADO 26 CM 4 CJS/500 PZAS",
+        "minimo": 357.2444444444444
+    },
+    {
+        "clave": "CFI45C12M06004BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 45 X 600 CAL 12 TUBO 4 MM 1 ROLLO",
+        "minimo": 345.8328888888889
+    },
+    {
+        "clave": "CH007",
+        "descripcion": "CHAROLA TERMICA 007  REYMA 10 PAQ/50 PZAS",
+        "minimo": 343.6
+    },
+    {
+        "clave": "DS500I12P01C012",
+        "descripcion": "SERVILLETA DOMESTICA KIHARA 500 PZAS C/EMP. IND. 1 CAJA/12 PAQ",
+        "minimo": 342.8888888888889
+    },
+    {
+        "clave": "BBR2535",
+        "descripcion": "BOLSA BAJA ROLLO 25 X 35",
+        "minimo": 335.6873333333333
+    },
+    {
+        "clave": "VP4A",
+        "descripcion": "VASO POLIPRO NO. 4 ANCHO REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 330.4
+    },
+    {
+        "clave": "CFI38C12M06004BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 38 X 600 CAL 12 TUBO 4 MM 1 ROLLO",
+        "minimo": 328.7493333333333
+    },
+    {
+        "clave": "CN8X8L4PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE 8X8 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 317.8666666666667
+    },
+    {
+        "clave": "RB100",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-100 REYMA 1 PAQ/250 PZAS",
+        "minimo": 313.1111111111111
+    },
+    {
+        "clave": "CH105",
+        "descripcion": "CHAROLA TERMICA 105  REYMA 1 PAQ/500 PZAS",
+        "minimo": 309.15555555555557
+    },
+    {
+        "clave": "VT16",
+        "descripcion": "VASO TERMICO NO. 16 REYMA 25 PAQ. / 20 PZAS.",
+        "minimo": 300.0444444444445
+    },
+    {
+        "clave": "BPRCH2030",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 20 X 30",
+        "minimo": 292.5422222222222
+    },
+    {
+        "clave": "CN7X7DCS",
+        "descripcion": "CONTENEDOR TERMICO 7X7 DIVISION REYMA 8 PAQ/25 PZAS",
+        "minimo": 286.26666666666665
+    },
+    {
+        "clave": "S18C60P1200",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1200 CAJA/4 ROLLOS",
+        "minimo": 281.7759506172839
+    },
+    {
+        "clave": "CN9X9L4PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE 9X9 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 278.84444444444443
+    },
+    {
+        "clave": "CN7X7LCS",
+        "descripcion": "CONTENEDOR TERMICO 7X7 LISO REYMA 8 PAQ/25 PZAS",
+        "minimo": 278.5777777777778
+    },
+    {
+        "clave": "TR",
+        "descripcion": "TAPA LISA P/ENVASES REYMA 20 PAQ/25 PZAS",
+        "minimo": 272.31111111111113
+    },
+    {
+        "clave": "CN7X7L4PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE 7X7 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 266.44444444444446
+    },
+    {
+        "clave": "VT6",
+        "descripcion": "VASO TERMICO NO. 6 REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 259.3777777777778
+    },
+    {
+        "clave": "TPDEU",
+        "descripcion": "TAPA DOMO P/LINEA EU REYMA 20 PAQ/50 PZAS",
+        "minimo": 257.55555555555554
+    },
+    {
+        "clave": "TP4A8",
+        "descripcion": "TAPA LISA P/VASO POLIPRO NO. 4A/8 REYMA 20 PAQ/50 PZAS",
+        "minimo": 245.42222222222225
+    },
+    {
+        "clave": "CNH10PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE P/HAMBURGUESA REYMA 10 PAQ/50 PZAS",
+        "minimo": 237.2888888888889
+    },
+    {
+        "clave": "BPRCH3040",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 30 X 40",
+        "minimo": 236.2368888888889
+    },
+    {
+        "clave": "PH6",
+        "descripcion": "PLATO TERMICO PH6 REYMA 20 PAQ/25 PZAS",
+        "minimo": 233.82222222222222
+    },
+    {
+        "clave": "CNHD",
+        "descripcion": "CONTENEDOR TERMICO P/HOT DOG REYMA 4 PAQ/125 PZAS",
+        "minimo": 230.0
+    },
+    {
+        "clave": "CN8X8D4PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE 8X8 DIVISION REYMA 4 PAQ/50 PZAS",
+        "minimo": 222.8
+    },
+    {
+        "clave": "BBR2030",
+        "descripcion": "BOLSA BAJA ROLLO 20 X 30",
+        "minimo": 221.63333333333333
+    },
+    {
+        "clave": "VT60",
+        "descripcion": "VASO TERMICO NO. 60 REYMA 30 PAQ. / 10 PZAS.",
+        "minimo": 219.73333333333332
+    },
+    {
+        "clave": "POGNE26BIO",
+        "descripcion": "POPOTE BIODEGRADABLE GRANEL NEON 26 CM 5 PAQ/1 KG",
+        "minimo": 217.55555555555554
+    },
+    {
+        "clave": "CH9",
+        "descripcion": "CHAROLA TERMICA 9 REYMA 1 PAQ/200 PZAS",
+        "minimo": 217.11111111111111
+    },
+    {
+        "clave": "BBR3545",
+        "descripcion": "BOLSA BAJA ROLLO 35 X 45",
+        "minimo": 214.60222222222222
+    },
+    {
+        "clave": "BAR3040",
+        "descripcion": "BOLSA ALTA ROLLO 30 X 40",
+        "minimo": 210.8628888888889
+    },
+    {
+        "clave": "BBR4060",
+        "descripcion": "BOLSA BAJA ROLLO 40 X 60",
+        "minimo": 206.93999999999997
+    },
+    {
+        "clave": "BAR2030",
+        "descripcion": "BOLSA ALTA ROLLO 20 X 30",
+        "minimo": 206.40362222222222
+    },
+    {
+        "clave": "BARCH2535",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 25 X 35",
+        "minimo": 205.01822222222222
+    },
+    {
+        "clave": "PH4",
+        "descripcion": "PLATO TERMICO PH4 REYMA 20 PAQ/25 PZAS",
+        "minimo": 193.91111111111113
+    },
+    {
+        "clave": "TP16R",
+        "descripcion": "TAPA RANURADA P/VASO POLIPRO NO. 16 REYMA 20 PAQ/50 PZAS",
+        "minimo": 192.39999999999998
+    },
+    {
+        "clave": "R520BN",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-520 REYMA CON BASE NEGRA 2 PAQ/50 PZAS",
+        "minimo": 191.2
+    },
+    {
+        "clave": "BBCK6090",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 60 X 90 25 PAQ/1 KG",
+        "minimo": 187.33333333333334
+    },
+    {
+        "clave": "CH9H",
+        "descripcion": "CHAROLA TERMICA 9H  REYMA 1 PAQ/200 PZAS",
+        "minimo": 186.26666666666668
+    },
+    {
+        "clave": "S18C60P1200SC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1200 4 ROLLOS",
+        "minimo": 184.0203703703704
+    },
+    {
+        "clave": "ENV1LTR",
+        "descripcion": "ENVASE POLIPRO 1 LITRO REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 181.64444444444445
+    },
+    {
+        "clave": "POGES26BIO",
+        "descripcion": "POPOTE BIODEGRADABLE GRANEL ESTUCHADO 26 CM 1 CJ/2000 PZAS",
+        "minimo": 181.11111111111111
+    },
+    {
+        "clave": "VP16EU",
+        "descripcion": "VASO POLIPRO NO. 16 EU REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 179.77777777777777
+    },
+    {
+        "clave": "BBR6090",
+        "descripcion": "BOLSA BAJA ROLLO 60 X 90",
+        "minimo": 170.76777777777778
+    },
+    {
+        "clave": "LAR30",
+        "descripcion": "LAMINA ALTA ROLLO 30 CM",
+        "minimo": 170.30666666666667
+    },
+    {
+        "clave": "VP7",
+        "descripcion": "VASO POLIPRO NO. 7 REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 167.77777777777777
+    },
+    {
+        "clave": "PH10",
+        "descripcion": "PLATO TERMICO PH10 REYMA 20 PAQ/25 PZAS",
+        "minimo": 165.11111111111111
+    },
+    {
+        "clave": "TVT1LT",
+        "descripcion": "TAPA LISA P/VASO TERMICO 1 Y 1/2 LITRO REYMA 20PAQ/25 PZAS",
+        "minimo": 159.15555555555557
+    },
+    {
+        "clave": "BPRCH1525",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 15 X 25",
+        "minimo": 157.18380000000002
+    },
+    {
+        "clave": "CFI30C12M03004BR4",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 30 X 300 CAL 12 TUBO 4 MM 4 ROLLOS",
+        "minimo": 156.66527777777776
+    },
+    {
+        "clave": "LAC3040",
+        "descripcion": "LAMINA ALTA CORTADA 30 X 40 1 CJ/5 KGS",
+        "minimo": 151.6888888888889
+    },
+    {
+        "clave": "CN7X7L4PXN",
+        "descripcion": "CONTENEDOR TERMICO 7X7 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 148.0
+    },
+    {
+        "clave": "BBR3040",
+        "descripcion": "BOLSA BAJA ROLLO 30 X 40",
+        "minimo": 146.23266666666666
+    },
+    {
+        "clave": "CN7X7D4PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE 7X7 DIVISION REYMA 4 PAQ/50 PZAS",
+        "minimo": 146.22222222222223
+    },
+    {
+        "clave": "R12",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-12 REYMA 1 PAQ/250 PZAS",
+        "minimo": 145.2
+    },
+    {
+        "clave": "CN9X9D4PBIO",
+        "descripcion": "CONTENEDOR TERMICO BIODEGRADABLE 9X9 DIVISION REYMA 4 PAQ/50 PZAS",
+        "minimo": 144.6222222222222
+    },
+    {
+        "clave": "CN8X8LCS",
+        "descripcion": "CONTENEDOR TERMICO 8X8 LISO REYMA 4 PAQ/50 PZAS",
+        "minimo": 138.22222222222223
+    },
+    {
+        "clave": "DH600I06P08B048",
+        "descripcion": "PAPEL HIGIENICO KOVU 600 HOJAS C/EMP. IND. 8 PAQ/6 ROLLOS",
+        "minimo": 135.3777777777778
+    },
+    {
+        "clave": "VT4CH",
+        "descripcion": "VASO TERMICO NO. 4 CHICO REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 134.93333333333334
+    },
+    {
+        "clave": "TP32EUR",
+        "descripcion": "TAPA RANURADA P/VASO POLIPRO NO. 32 EU REYMA 20 PAQ/25 PZAS",
+        "minimo": 133.11111111111111
+    },
+    {
+        "clave": "CN8X8DCS",
+        "descripcion": "CONTENEDOR TERMICO 8X8 DIVISION REYMA  PAQ/50 PZAS",
+        "minimo": 132.66666666666666
+    },
+    {
+        "clave": "BPF3060",
+        "descripcion": "BOLSA POLISEDA FUELLE 30 X 60 25 PAQ/1 KG",
+        "minimo": 130.7111111111111
+    },
+    {
+        "clave": "BBR5070",
+        "descripcion": "BOLSA BAJA ROLLO 50 X 70",
+        "minimo": 126.87666666666665
+    },
+    {
+        "clave": "PT10L",
+        "descripcion": "PLATO TERMICO 10 LISO REYMA 20 PAQ/25 PZAS",
+        "minimo": 124.57777777777778
+    },
+    {
+        "clave": "CFI30C12M06004BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 30 X 600 CAL 12 TUBO 4 MM 1 ROLLO",
+        "minimo": 122.17555555555555
+    },
+    {
+        "clave": "VP12EU",
+        "descripcion": "VASO POLIPRO NO. 12 EU REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 120.75555555555555
+    },
+    {
+        "clave": "R510BN",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-510 REYMA CON BASE NEGRA 2 PAQ/50 PZAS",
+        "minimo": 119.22222222222223
+    },
+    {
+        "clave": "BAR6090",
+        "descripcion": "BOLSA ALTA ROLLO 60 X 90",
+        "minimo": 118.38122222222222
+    },
+    {
+        "clave": "VP14EU",
+        "descripcion": "VASO POLIPRO NO. 14 EU REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 114.6222222222222
+    },
+    {
+        "clave": "DT168I06P04B024",
+        "descripcion": "TOALLA COCINA KIHARA 168 HOJAS C/EMP. IND. 4 PAQ/6 ROLLOS",
+        "minimo": 112.22222222222223
+    },
+    {
+        "clave": "CFI30C12M10006BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 30 X 1000 CAL 12 TUBO 6 MM 1 ROLLO",
+        "minimo": 111.27466666666668
+    },
+    {
+        "clave": "ENV1/2LTR",
+        "descripcion": "ENVASE POLIPRO 1/2 LITRO REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 109.91111111111111
+    },
+    {
+        "clave": "BBCK1525",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 15 X 25 25 PAQ/1 KG",
+        "minimo": 106.53333333333333
+    },
+    {
+        "clave": "BBCK4060",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 40 X 60 25 PAQ/1 KG",
+        "minimo": 105.46666666666667
+    },
+    {
+        "clave": "RB110",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-110 REYMA 1 PAQ/250 PZAS",
+        "minimo": 102.75555555555555
+    },
+    {
+        "clave": "TVT4CH6",
+        "descripcion": "TAPA LISA P/VASO TERMICO NO. 4CH/6 REYMA 20 PAQ/50 PZAS",
+        "minimo": 101.02222222222223
+    },
+    {
+        "clave": "TP51/24CH",
+        "descripcion": "TAPA LISA P/VASO POLIPRO NO. 51/2/4CH REYMA 20 PAQ/50 PZAS",
+        "minimo": 100.75555555555555
+    },
+    {
+        "clave": "BAR1525",
+        "descripcion": "BOLSA ALTA ROLLO 15 X 25",
+        "minimo": 100.05733333333333
+    },
+    {
+        "clave": "BARCH2030",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 20 X 30",
+        "minimo": 99.80555555555556
+    },
+    {
+        "clave": "CH1014",
+        "descripcion": "CHAROLA TERMICA 1014  REYMA 1 PAQ/200 PZAS",
+        "minimo": 98.26666666666667
+    },
+    {
+        "clave": "S20C80P4500",
+        "descripcion": "STRETCH 20 CAL 80 PIES 4500 CAJA/1 ROLLO",
+        "minimo": 97.02469135802468
+    },
+    {
+        "clave": "CNH10PXN",
+        "descripcion": "CONTENEDOR TERMICO P/HAMBURGUESA REYMA 10 PAQ/50 PZAS",
+        "minimo": 94.44444444444444
+    },
+    {
+        "clave": "PT9C2D",
+        "descripcion": "CHAROLA TERMICA 9 C/2 DIVISIONES REYMA 20 PAQ/25 PZAS",
+        "minimo": 94.35555555555555
+    },
+    {
+        "clave": "S18C60P800SC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 800 4 ROLLOS",
+        "minimo": 94.32148148148147
+    },
+    {
+        "clave": "PH8BIO",
+        "descripcion": "PLATO TERMICO BIODEGRADABLE PH8 REYMA 20 PAQ/25 PZAS",
+        "minimo": 93.51111111111112
+    },
+    {
+        "clave": "BBCK5070",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 50 X 70 25 PAQ/1 KG",
+        "minimo": 93.19999999999999
+    },
+    {
+        "clave": "LAC2535",
+        "descripcion": "LAMINA ALTA CORTADA 25 X 35 1 CJ/5 KGS",
+        "minimo": 90.44444444444444
+    },
+    {
+        "clave": "VT14",
+        "descripcion": "VASO TERMICO NO. 14 REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 88.84444444444445
+    },
+    {
+        "clave": "BAR4060",
+        "descripcion": "BOLSA ALTA ROLLO 40 X 60",
+        "minimo": 85.64111111111112
+    },
+    {
+        "clave": "BAFK3060BIO",
+        "descripcion": "BOLSA ALTA FUELLE BIODEGRADABLE KILEADO 30X60 25 PAQ/1 KG",
+        "minimo": 85.33333333333333
+    },
+    {
+        "clave": "BAR3545",
+        "descripcion": "BOLSA ALTA ROLLO 35 X 45",
+        "minimo": 80.84333333333332
+    },
+    {
+        "clave": "PT10D",
+        "descripcion": "PLATO TERMICO 10 DIVISION REYMA 20 PAQ/25 PZAS",
+        "minimo": 80.53333333333333
+    },
+    {
+        "clave": "S18C60P1000SC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1000 4 ROLLOS",
+        "minimo": 78.1917695473251
+    },
+    {
+        "clave": "BARCH3040",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 30 X 40",
+        "minimo": 75.964
+    },
+    {
+        "clave": "BPF1832",
+        "descripcion": "BOLSA POLISEDA FUELLE 18 X 32 25 PAQ/1 KG",
+        "minimo": 75.51111111111112
+    },
+    {
+        "clave": "BAR5070",
+        "descripcion": "BOLSA ALTA ROLLO 50 X 70",
+        "minimo": 75.07522222222221
+    },
+    {
+        "clave": "ALKMOD400",
+        "descripcion": "ROLLO DE PAPEL ALUMINIO MODELO 400 ALUKING´S CAJA/4 PZAS",
+        "minimo": 72.84444444444445
+    },
+    {
+        "clave": "PT8L",
+        "descripcion": "PLATO TERMICO 8 LISO REYMA 25 PAQ/20 PZAS",
+        "minimo": 71.95555555555556
+    },
+    {
+        "clave": "BAFK2550BIO",
+        "descripcion": "BOLSA ALTA FUELLE BIODEGRADABLE KILEADO 25X50 25 PAQ/1 KG",
+        "minimo": 70.66666666666667
+    },
+    {
+        "clave": "BBCK3040",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 30 X 40 25 PAQ/1 KG",
+        "minimo": 70.44444444444444
+    },
+    {
+        "clave": "RB160",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-160 REYMA 1 PAQ/250 PZAS",
+        "minimo": 68.80000000000001
+    },
+    {
+        "clave": "PT006BIO",
+        "descripcion": "PLATO TERMICO BIODEGRADABLE 006 REYMA 20 PAQ/25 PZAS",
+        "minimo": 67.37777777777778
+    },
+    {
+        "clave": "CH8H",
+        "descripcion": "CHAROLA TERMICA 8H REYMA 1 PAQ/400 PZAS",
+        "minimo": 67.24444444444445
+    },
+    {
+        "clave": "BBC90120",
+        "descripcion": "BOLSA BAJA CORTADA 90 X 120 1 BTO/25 KGS",
+        "minimo": 66.93333333333334
+    },
+    {
+        "clave": "PT8D",
+        "descripcion": "PLATO TERMICO 8 DIVISION REYMA 25 PAQ/20 PZAS",
+        "minimo": 66.3111111111111
+    },
+    {
+        "clave": "CFI35C12M06004BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 35 X 600 CAL 12 TUBO 4 MM 1 ROLLO",
+        "minimo": 66.17866666666666
+    },
+    {
+        "clave": "TP10",
+        "descripcion": "TAPA LISA P/VASO POLIPRO NO. 10 REYMA 20 PAQ/50 PZAS",
+        "minimo": 65.82222222222222
+    },
+    {
+        "clave": "BBCK3545",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 35 X 45 25 PAQ/1 KG",
+        "minimo": 65.77777777777777
+    },
+    {
+        "clave": "VPS5A",
+        "descripcion": "VASO POLIESTIRENO NO. 5 AZUL REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 62.266666666666666
+    },
+    {
+        "clave": "TVT4A12",
+        "descripcion": "TAPA LISA P/VASO TERMICO NO. 4A/12 REYMA 20 PAQ/50 PZAS",
+        "minimo": 61.6888888888889
+    },
+    {
+        "clave": "DT168N03P08B024",
+        "descripcion": "TOALLA COCINA KIHARA 168 HOJAS 8 PAQ/3 ROLLOS",
+        "minimo": 58.77777777777778
+    },
+    {
+        "clave": "POGNE21BIO",
+        "descripcion": "POPOTE BIODEGRADABLE GRANEL NEON 21 CM 5 PAQ/1 KG",
+        "minimo": 58.22222222222222
+    },
+    {
+        "clave": "VP1OZ",
+        "descripcion": "VASO POLIPRO NO. 1 ONZA REYMA 25 PAQ. / 200 PZAS.",
+        "minimo": 57.599999999999994
+    },
+    {
+        "clave": "S18C80P1500SC",
+        "descripcion": "STRETCH 18 CAL 80 PIES 1500 4 ROLLOS",
+        "minimo": 57.24814814814815
+    },
+    {
+        "clave": "TVT141620R",
+        "descripcion": "TAPA RANURADA P/VASO TERMICO NO. 14/16/20 REYMA 20PAQ/50 PZAS",
+        "minimo": 55.955555555555556
+    },
+    {
+        "clave": "BBR1525",
+        "descripcion": "BOLSA BAJA ROLLO 15 X 25",
+        "minimo": 55.86044444444445
+    },
+    {
+        "clave": "CNHO",
+        "descripcion": "CONTENEDOR TERMICO HOAGIE REYMA 2 PAQ/100 PZAS",
+        "minimo": 55.24444444444444
+    },
+    {
+        "clave": "VT4A",
+        "descripcion": "VASO TERMICO NO. 4 ANCHO REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 54.93333333333333
+    },
+    {
+        "clave": "VP24EU",
+        "descripcion": "VASO POLIPRO NO. 24 EU REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 54.48888888888889
+    },
+    {
+        "clave": "ENV1/4LTR",
+        "descripcion": "ENVASE POLIPRO 1/4 LITRO REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 54.31111111111111
+    },
+    {
+        "clave": "CFI38C12M10006BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 38 X 1000 CAL 12 TUBO 6 MM 1 ROLLO",
+        "minimo": 53.99155555555555
+    },
+    {
+        "clave": "IH200N12P01C012",
+        "descripcion": "PAPEL HIGIENICO INSTITUCIONAL KOVU 200 MTS 1 CAJA/12 ROLLOS",
+        "minimo": 53.91111111111111
+    },
+    {
+        "clave": "RB140",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-140 REYMA 1 PAQ/250 PZAS",
+        "minimo": 53.40740740740741
+    },
+    {
+        "clave": "VT20",
+        "descripcion": "VASO TERMICO NO. 20 REYMA 20 PAQ. / 15 PZAS.",
+        "minimo": 52.93333333333333
+    },
+    {
+        "clave": "VT200I12P01C012",
+        "descripcion": "TOALLA INTERDOBLADA KIHARA 200 PZAS C/EMP. IND. 1 CAJA/12 PAQ.",
+        "minimo": 52.93333333333333
+    },
+    {
+        "clave": "TVT10",
+        "descripcion": "TAPA LISA P/VASO TERMICO NO. 10 REYMA 20 PAQ/50 PZAS",
+        "minimo": 52.888888888888886
+    },
+    {
+        "clave": "CFI35C12M10006BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 35 X 1000 CAL 12 TUBO 6 MM 1 ROLLO",
+        "minimo": 52.32466666666666
+    },
+    {
+        "clave": "POCES21BIO",
+        "descripcion": "POPOTE BIODEGRADABLE CAJA ESTUCHADO 21 CM 4 CJS/500 PZAS",
+        "minimo": 51.111111111111114
+    },
+    {
+        "clave": "BAFK3570",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA 35 X 70 25 PAQ/1 KG",
+        "minimo": 50.355555555555554
+    },
+    {
+        "clave": "VS250I24P01C024",
+        "descripcion": "SERVILLETA INTERDOBLADA LA TAQUERA 250 PZAS C/EMP. IND. 1 CAJA/24 PAQ.",
+        "minimo": 50.17777777777778
+    },
+    {
+        "clave": "BARCH1525",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 15 X 25",
+        "minimo": 49.992222222222225
+    },
+    {
+        "clave": "SC18C50P700SC",
+        "descripcion": "STRETCH CORELESS 18 CAL 50 PIES 700 4 ROLLOS",
+        "minimo": 49.525432098765435
+    },
+    {
+        "clave": "BPRCH3545",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 35 X 45",
+        "minimo": 47.8921111111111
+    },
+    {
+        "clave": "VP8BIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 8 REYMA 20 PAQ/50 PZAS",
+        "minimo": 44.93333333333333
+    },
+    {
+        "clave": "BAFK2540BIO",
+        "descripcion": "BOLSA ALTA FUELLE BIODEGRADABLE KILEADO 25X40 25 PAQ/1 KG",
+        "minimo": 44.84444444444445
+    },
+    {
+        "clave": "CN8X8LNE",
+        "descripcion": "CONTENEDOR TERMICO 8X8 LISO NEGRO REYMA 2PAQ/100 PZAS",
+        "minimo": 44.27777777777778
+    },
+    {
+        "clave": "CH007BIO",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 007 REYMA 10 PAQ/50 PZAS",
+        "minimo": 43.77777777777778
+    },
+    {
+        "clave": "CH9HNE",
+        "descripcion": "CHAROLA TERMICA 9H NEGRA REYMA 1 PAQ/200 PZAS",
+        "minimo": 43.611111111111114
+    },
+    {
+        "clave": "VP16EURJ",
+        "descripcion": "VASO POLIPRO NO. 16 EU BICOLOR REYMA 20 PAQ. / 25 PZAS.",
+        "minimo": 43.06666666666667
+    },
+    {
+        "clave": "VP10EU",
+        "descripcion": "VASO POLIPRO NO. 10 EU REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 43.02222222222222
+    },
+    {
+        "clave": "CN7X7LNE",
+        "descripcion": "CONTENEDOR TERMICO 7X7 LISO NEGRO REYMA 2 PAQ/100 PZAS",
+        "minimo": 41.644444444444446
+    },
+    {
+        "clave": "ALKMOD100",
+        "descripcion": "ROLLO DE PAPEL ALUMINIO MODELO 100 ALUKING´S CAJA/12 PZAS",
+        "minimo": 38.93333333333333
+    },
+    {
+        "clave": "PT9DBIO",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 9 DIVISION REYMA 20 PAQ/25 PZAS",
+        "minimo": 38.044444444444444
+    },
+    {
+        "clave": "CS1",
+        "descripcion": "CUCHARA PLASTICA SOPERA NO. 1 REYMA 40 PAQ/25 PZAS",
+        "minimo": 37.0
+    },
+    {
+        "clave": "BPRCH4060",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 40 X 60",
+        "minimo": 36.90211111111111
+    },
+    {
+        "clave": "TVT8",
+        "descripcion": "TAPA LISA P/VASO TERMICO NO. 8 REYMA 20 PAQ/50 PZAS",
+        "minimo": 36.8
+    },
+    {
+        "clave": "ALKMOD050",
+        "descripcion": "ROLLO DE PAPEL ALUMINIO MODELO 50 ALUKING´S CAJA/12 PZAS",
+        "minimo": 36.355555555555554
+    },
+    {
+        "clave": "RB170",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-170 REYMA 1 PAQ/250 PZAS",
+        "minimo": 35.888888888888886
+    },
+    {
+        "clave": "BBC90120C300",
+        "descripcion": "BOLSA BAJA CORTADA 90 X 120 CAL. 300 1 BTO/25 KGS",
+        "minimo": 35.28888888888889
+    },
+    {
+        "clave": "TPEUR",
+        "descripcion": "TAPA RANURADA P/LINEA EU REYMA 20 PAQ/50 PZAS",
+        "minimo": 35.15555555555555
+    },
+    {
+        "clave": "DH200N04P24B096",
+        "descripcion": "PAPEL HIGIENICO KOVU 200 HOJAS 24 PAQ/4 ROLLOS",
+        "minimo": 35.02222222222222
+    },
+    {
+        "clave": "CH007NE",
+        "descripcion": "CHAROLA TERMICA 007 NEGRA REYMA 1 PAQ/500 PZAS",
+        "minimo": 34.148148148148145
+    },
+    {
+        "clave": "CN965",
+        "descripcion": "CONTENEDOR TERMICO 965 REYMA 2 PAQ/100 PZAS",
+        "minimo": 33.644444444444446
+    },
+    {
+        "clave": "VP2OZ",
+        "descripcion": "VASO POLIPRO NO. 2 ONZAS REYMA 12 PAQ. / 200 PZAS.",
+        "minimo": 33.333333333333336
+    },
+    {
+        "clave": "CFI45C12M10006BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 45 X 1000 CAL. 12 TUBO 6 MM 1 ROLLO",
+        "minimo": 33.080740740740744
+    },
+    {
+        "clave": "BAFK2037",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA 20 X 37 1 BTO/25 KGS",
+        "minimo": 32.08888888888889
+    },
+    {
+        "clave": "VP12BIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 12 REYMA 20 PAQ/50 PZAS",
+        "minimo": 31.733333333333334
+    },
+    {
+        "clave": "CFD30C10M0100PBN1",
+        "descripcion": "CLINGFILM DOMESTICO REYMA 30 X 100 CAL 10 25 ROLLITOS",
+        "minimo": 30.93333333333333
+    },
+    {
+        "clave": "BPRCH2535BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 25 X 35",
+        "minimo": 30.451999999999998
+    },
+    {
+        "clave": "BBRCH2030",
+        "descripcion": "BOLSA BAJA ROLLO CHICO 20 X 30",
+        "minimo": 30.227777777777778
+    },
+    {
+        "clave": "RB190",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-190 REYMA 1 PAQ/250 PZAS",
+        "minimo": 29.77777777777778
+    },
+    {
+        "clave": "RB120",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-120 REYMA 1 PAQ/250 PZAS",
+        "minimo": 29.688888888888886
+    },
+    {
+        "clave": "PH6BIO",
+        "descripcion": "PLATO TERMICO BIODEGRADABLE PH6 REYMA 20PAQ/25 PZAS",
+        "minimo": 29.333333333333332
+    },
+    {
+        "clave": "BAFK1832",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA 18 X 32 25 PAQ/1 KG",
+        "minimo": 29.06666666666667
+    },
+    {
+        "clave": "TVT141620",
+        "descripcion": "TAPA LISA P/VASO TERMICO NO. 14/16/20 REYMA 20 PAQ/50 PZAS",
+        "minimo": 28.488888888888887
+    },
+    {
+        "clave": "RB150",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-150 REYMA 1 PAQ/250 PZAS",
+        "minimo": 27.62962962962963
+    },
+    {
+        "clave": "RB130",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-130 REYMA 1 PAQ/250 PZAS",
+        "minimo": 27.6
+    },
+    {
+        "clave": "VP10BIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 10 REYMA 20 PAQ/50 PZAS",
+        "minimo": 27.555555555555557
+    },
+    {
+        "clave": "CH007AM",
+        "descripcion": "CHAROLA TERMICA 007 AMARILLA REYMA 1 PAQ/500 PZAS",
+        "minimo": 27.407407407407405
+    },
+    {
+        "clave": "BPRCH2535LC",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 25 X 35",
+        "minimo": 27.168518518518518
+    },
+    {
+        "clave": "BAFKNE2550",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA NEGRO 25 X 50 25 PAQ/1 KG",
+        "minimo": 26.666666666666668
+    },
+    {
+        "clave": "BBRCH3545",
+        "descripcion": "BOLSA BAJA ROLLO CHICO 35 X 45",
+        "minimo": 26.58888888888889
+    },
+    {
+        "clave": "BPRCH3040BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 30 X 40",
+        "minimo": 26.49777777777778
+    },
+    {
+        "clave": "BBCK1535",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 15 X 35 25 PAQ/1 KG",
+        "minimo": 26.38888888888889
+    },
+    {
+        "clave": "VT1LTBIO",
+        "descripcion": "VASO TERMICO BIODEGRADABLE NO. 1 LITRO REYMA 20 PAQ/15 PZAS",
+        "minimo": 26.177777777777777
+    },
+    {
+        "clave": "TP2OZ",
+        "descripcion": "TAPA LISA P/VASO POLIPRO NO. 2 ONZAS REYMA 24 PAQ/100 PZAS",
+        "minimo": 26.08888888888889
+    },
+    {
+        "clave": "BBC822",
+        "descripcion": "BOLSA BAJA CORTADA 8 X 22 1 BTO/25 KGS",
+        "minimo": 25.866666666666667
+    },
+    {
+        "clave": "IH180N12P01C012",
+        "descripcion": "PAPEL HIGIENICO INSTITUCIONAL KOVU 180 MTS 1 CAJA/12 ROLLOS",
+        "minimo": 25.866666666666667
+    },
+    {
+        "clave": "PT8DBIO",
+        "descripcion": "PLATO TERMICO BIODEGRADABLE 8 DIVISION REYMA 25 PAQ/20 PZAS",
+        "minimo": 25.6
+    },
+    {
+        "clave": "CFI35C10M15006BR1",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 35 X 1500 CAL 10 TUBO 6 MM 1 ROLLO",
+        "minimo": 25.595555555555556
+    },
+    {
+        "clave": "BPRCH2030BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 20 X 30",
+        "minimo": 25.174444444444443
+    },
+    {
+        "clave": "BBCK90120",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 90 X 120 25 PAQ/1 KG",
+        "minimo": 25.11111111111111
+    },
+    {
+        "clave": "BARCH1826",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 18 X 26",
+        "minimo": 24.822222222222223
+    },
+    {
+        "clave": "VT8BIO",
+        "descripcion": "VASO TERMICO BIODEGRADABLE NO. 8 REYMA 40 PAQ/25 PZAS",
+        "minimo": 24.799999999999997
+    },
+    {
+        "clave": "VT32CC",
+        "descripcion": "VASO TERMICO NO. 32 OZ CAR CUP REYMA 20 PAQ. / 15 PZAS.",
+        "minimo": 24.266666666666666
+    },
+    {
+        "clave": "CH855MABIOAJ",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 855 MARIEL ABUELO JOSE 10 PAQ/50 PZAS",
+        "minimo": 24.133333333333333
+    },
+    {
+        "clave": "VP51/2BIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 5 1/2 REYMA 20 PAQ/50 PZAS",
+        "minimo": 23.733333333333334
+    },
+    {
+        "clave": "BBCK1826",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 18 X 26 25 PAQ/1 KG",
+        "minimo": 23.288888888888888
+    },
+    {
+        "clave": "BBCK1526",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 15 X 26 25 PAQ/1 KG",
+        "minimo": 23.11111111111111
+    },
+    {
+        "clave": "BBCK2035",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 20 X 35 25 PAQ/1 KG",
+        "minimo": 22.444444444444443
+    },
+    {
+        "clave": "VP20EU",
+        "descripcion": "VASO POLIPRO NO. 20 EU REYMA 20 PAQ. / 50 PZAS.",
+        "minimo": 22.4
+    },
+    {
+        "clave": "BAFKNE2540",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA NEGRO 25 X 40 25 PAQ/ 1 KG",
+        "minimo": 22.22222222222222
+    },
+    {
+        "clave": "VP14BIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 14 REYMA 20 PAQ/50 PZAS",
+        "minimo": 21.51111111111111
+    },
+    {
+        "clave": "BBC6090C300",
+        "descripcion": "BOLSA BAJA CORTADA 60 X 90 CAL. 300 1 BTO/25 KGS",
+        "minimo": 20.933333333333334
+    },
+    {
+        "clave": "BBCK1530",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 15 X 30 25 PAQ/1 KG",
+        "minimo": 20.88888888888889
+    },
+    {
+        "clave": "CCN100TR",
+        "descripcion": "CUCHARA NEVERA 20 PQ / 100 PZ TRANSPARENTE",
+        "minimo": 20.72222222222222
+    },
+    {
+        "clave": "BBRCH3040",
+        "descripcion": "BOLSA BAJA ROLLO CHICO 30 X 40",
+        "minimo": 20.705555555555556
+    },
+    {
+        "clave": "R10",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-10 REYMA 4 PAQ/25 PZAS",
+        "minimo": 20.51851851851852
+    },
+    {
+        "clave": "BBRCH1526",
+        "descripcion": "BOLSA BAJA ROLLO CHICO 15X26",
+        "minimo": 20.37777777777778
+    },
+    {
+        "clave": "CFC30C10M06004BR1",
+        "descripcion": "CLINGFILM CUTTERBOX REYMA 30 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 19.755555555555556
+    },
+    {
+        "clave": "BBRCH2535",
+        "descripcion": "BOLSA BAJA ROLLO CHICO 25 X 35",
+        "minimo": 19.664814814814815
+    },
+    {
+        "clave": "CNHNE",
+        "descripcion": "CONTENEDOR TERMICO P/HAMBURGUESA NEGRO REYMA 4 PAQ/125 PZAS",
+        "minimo": 18.88888888888889
+    },
+    {
+        "clave": "BBCK2132",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 21 X 32 25 PAQ/1 KG",
+        "minimo": 18.666666666666668
+    },
+    {
+        "clave": "BPL2030C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 20X30 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 18.63111111111111
+    },
+    {
+        "clave": "ALKMOD010",
+        "descripcion": "ROLLO DE PAPEL ALUMINIO MODELO 10 ALUKING´S CAJA/24 PZAS",
+        "minimo": 18.4
+    },
+    {
+        "clave": "BPRCH1525BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 15 X 25",
+        "minimo": 18.36555555555556
+    },
+    {
+        "clave": "BBC6090C150",
+        "descripcion": "BOLSA BAJA CORTADA 60 X 90 CAL. 150 1 BTO/25 KGS",
+        "minimo": 17.944444444444443
+    },
+    {
+        "clave": "IT180N06P01C006",
+        "descripcion": "TOALLA SECAMANOS KIHARA 180 MTS 1 CAJA/6 ROLLOS",
+        "minimo": 17.866666666666667
+    },
+    {
+        "clave": "BBCK1830",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 18 X 30 25 PAQ/1 KG",
+        "minimo": 17.77777777777778
+    },
+    {
+        "clave": "CH066MABIOAJ",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL BIODEGRADABLE ABUELO JOSE 10 PAQ/50 PZAS",
+        "minimo": 17.688888888888886
+    },
+    {
+        "clave": "TP1OZ",
+        "descripcion": "TAPA LISA P/VASO POLIPRO NO. 1 ONZA REYMA 25 PAQ/100 PZAS",
+        "minimo": 16.755555555555556
+    },
+    {
+        "clave": "CCG25BC",
+        "descripcion": "CUCHARA GRANDE 20 PQ / 25 PZ BLANCO",
+        "minimo": 16.666666666666668
+    },
+    {
+        "clave": "POGES21BIO",
+        "descripcion": "POPOTE BIODEGRADABLE GRANEL ESTUCHADO 21 CM 1 CJ/2000 PZAS",
+        "minimo": 16.48888888888889
+    },
+    {
+        "clave": "CFI35C12M03006BR4",
+        "descripcion": "CLINGFILM INDUSTRIAL REYMA 35 X 300 CAL 12 TUBO 6 MM 4 ROLLOS",
+        "minimo": 16.061666666666667
+    },
+    {
+        "clave": "BPL2535C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 25X35 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 15.946666666666667
+    },
+    {
+        "clave": "BAFKNE3060",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA NEGRO 30 X 60 25 PAQ/1 KG",
+        "minimo": 15.377777777777778
+    },
+    {
+        "clave": "R32",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-32 REYMA 2 PAQ/125 PZAS",
+        "minimo": 15.333333333333334
+    },
+    {
+        "clave": "TPEU",
+        "descripcion": "TAPA LISA P/LINEA EU REYMA 20 PAQ/50 PZAS",
+        "minimo": 15.333333333333334
+    },
+    {
+        "clave": "S18C50P1000SC",
+        "descripcion": "STRETCH 18 CAL 50 PIES 1000 4 ROLLOS",
+        "minimo": 15.129629629629628
+    },
+    {
+        "clave": "CH066RE",
+        "descripcion": "CHAROLA TERMICA 066 REYMA 10 PAQ/50 PZAS",
+        "minimo": 15.0
+    },
+    {
+        "clave": "BAFKBL2550",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA BLANCO 25 X 50 25 PAQ/1 KG",
+        "minimo": 14.399999999999999
+    },
+    {
+        "clave": "BPRCH1525LC",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 15 X 25",
+        "minimo": 14.144444444444444
+    },
+    {
+        "clave": "POCES26BIO150",
+        "descripcion": "POPOTE BIODEGRADABLE CAJA ESTUCHADO 26 CM 32 CJS/150 PZAS",
+        "minimo": 14.0
+    },
+    {
+        "clave": "CH855RE",
+        "descripcion": "CHAROLA TERMICA 855 REYMA 10 PAQ/50 PZAS",
+        "minimo": 13.333333333333334
+    },
+    {
+        "clave": "CN7X7DNE",
+        "descripcion": "CONTENEDOR TERMICO 7X7 DIVISION NEGRO REYMA 2 PAQ/100 PZAS",
+        "minimo": 13.244444444444445
+    },
+    {
+        "clave": "BBR1826",
+        "descripcion": "BOLSA BAJA ROLLO 18 X 26",
+        "minimo": 12.949333333333335
+    },
+    {
+        "clave": "VT12A",
+        "descripcion": "VASO TERMICO NO. 12 ANCHO REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 12.88888888888889
+    },
+    {
+        "clave": "BBR5070C250",
+        "descripcion": "BOLSA BAJA ROLLO 50 X 70 CAL. 250",
+        "minimo": 12.833333333333334
+    },
+    {
+        "clave": "VT10BIO",
+        "descripcion": "VASO TERMICO BIODEGRADABLE NO. 10 REYMA 40 PAQ/25 PZAS",
+        "minimo": 12.8
+    },
+    {
+        "clave": "PT8LBIO",
+        "descripcion": "PLATO TERMICO BIODEGRADABLE 8 LISO REYMA 25 PAQ/20 PZAS",
+        "minimo": 12.666666666666666
+    },
+    {
+        "clave": "CH007RS",
+        "descripcion": "CHAROLA TERMICA 007 ROSA REYMA 1 PAQ/500 PZAS",
+        "minimo": 12.444444444444445
+    },
+    {
+        "clave": "BBR1570SAURI",
+        "descripcion": "BOLSA BAJA ROLLO 15 X 70",
+        "minimo": 12.211111111111112
+    },
+    {
+        "clave": "CH835BIO",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 835 REYMA 10 PAQ/50 PZAS",
+        "minimo": 12.133333333333333
+    },
+    {
+        "clave": "BPRCH2030LC",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 20 X 30",
+        "minimo": 12.125
+    },
+    {
+        "clave": "CFD30C10M0030PBN1",
+        "descripcion": "CLINGFILM DOMESTICO REYMA 30 X 30 CAL 10 50 ROLLITOS",
+        "minimo": 12.022222222222222
+    },
+    {
+        "clave": "BBCK60100",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 60 X 100 25 PAQ/1 KG",
+        "minimo": 11.822222222222223
+    },
+    {
+        "clave": "BBC1020",
+        "descripcion": "BOLSA BAJA CORTADA 10 X 20  1 BTO/25 KGS",
+        "minimo": 11.644444444444444
+    },
+    {
+        "clave": "R2",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-2 REYMA 1 PAQ/500 PZAS",
+        "minimo": 11.600000000000001
+    },
+    {
+        "clave": "BPRCH1826",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 18 X 26",
+        "minimo": 11.53111111111111
+    },
+    {
+        "clave": "BAR3550",
+        "descripcion": "BOLSA ALTA ROLLO 35 X 50",
+        "minimo": 11.488888888888889
+    },
+    {
+        "clave": "SC05C60P1200SC",
+        "descripcion": "STRETCH CORELESS 05 CAL 60 PIES 1200 1 ROLLO",
+        "minimo": 11.488888888888887
+    },
+    {
+        "clave": "BBR1550SAURI",
+        "descripcion": "BOLSA BAJA ROLLO 15 X 50",
+        "minimo": 11.472222222222221
+    },
+    {
+        "clave": "BAR1570",
+        "descripcion": "BOLSA ALTA ROLLO 15 X 70",
+        "minimo": 11.322222222222223
+    },
+    {
+        "clave": "S18C60P700SC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 700 4 ROLLOS",
+        "minimo": 11.320987654320987
+    },
+    {
+        "clave": "CFI45C10M06006DBC",
+        "descripcion": "CLINGFILM INDUSTRIAL DON BOLSÓN 45 X 600 CAL 10 TUBO 6 MM 1 ROLLO P/CAJA",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "EMPBIOVT1LT",
+        "descripcion": "EMPAQUE CAJA LINEA BIO  VT1LT",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "EMPBIOVT8",
+        "descripcion": "EMPAQUE CAJA LINEA BIO  VT8",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "EMPR510",
+        "descripcion": "EMPAQUE DOMO R-510",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "EMPVT1/2LT",
+        "descripcion": "EMPAQUE VASO TERMICO 1/2 LITRO",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "EMPVT10",
+        "descripcion": "EMPAQUE VASO TERMICO NO.10",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "EMPVT1LT",
+        "descripcion": "EMPAQUE VASO TERMICO 1 LITRO",
+        "minimo": 11.11111111111111
+    },
+    {
+        "clave": "ALKMOD007",
+        "descripcion": "ROLLO DE PAPEL ALUMINIO MODELO 7 ALUKING´S CAJA/24 PZAS",
+        "minimo": 10.844444444444443
+    },
+    {
+        "clave": "VT8A",
+        "descripcion": "VASO TERMICO NO. 8 ANCHO REYMA 40 PAQ. / 25 PZAS.",
+        "minimo": 10.777777777777779
+    },
+    {
+        "clave": "BAFKBL2540",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA BLANCO 25 X 40 25 PAQ/1 KG",
+        "minimo": 10.444444444444445
+    },
+    {
+        "clave": "TP1214",
+        "descripcion": "TAPA LISA P/VASO POLIPRO NO. 12/14 REYMA 20 PAQ/50 PZAS",
+        "minimo": 10.31111111111111
+    },
+    {
+        "clave": "BAFK3570BIO",
+        "descripcion": "BOLSA ALTA FUELLE BIODEGRADABLE KILEADO 35X70 25 PAQ/1 KG",
+        "minimo": 10.044444444444444
+    },
+    {
+        "clave": "BBC1222",
+        "descripcion": "BOLSA BAJA CORTADA 12 X 22 1 BTO/25 KGS",
+        "minimo": 10.044444444444444
+    },
+    {
+        "clave": "R14",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-14  REYMA 1 PAQ/250 PZAS",
+        "minimo": 9.955555555555556
+    },
+    {
+        "clave": "VP16LBIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 16 LARGO REYMA 40 PAQ/25 PZAS",
+        "minimo": 9.733333333333333
+    },
+    {
+        "clave": "BPL1525C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 15X25 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 9.52888888888889
+    },
+    {
+        "clave": "BPRCH3545BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 35 X 45",
+        "minimo": 9.336666666666666
+    },
+    {
+        "clave": "CCN100NE",
+        "descripcion": "CUCHARA NEVERA 20 PQ/100 PZ NEGRO",
+        "minimo": 9.166666666666666
+    },
+    {
+        "clave": "BBCK1522",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 15 X 22 25 PAQ/1 KG",
+        "minimo": 8.88888888888889
+    },
+    {
+        "clave": "BBC6090C250",
+        "descripcion": "BOLSA BAJA CORTADA 60 X 90 CAL. 250 1 BTO/25 KGS",
+        "minimo": 8.88888888888889
+    },
+    {
+        "clave": "EMPCNH10P",
+        "descripcion": "EMPAQUE CAJA PARA CONTENEDOR HAMBURGUESERO 10PQTS/50PZS",
+        "minimo": 8.88888888888889
+    },
+    {
+        "clave": "CS1BIO",
+        "descripcion": "CUCHARA PLASTICA BIODEGRADABLE SOPERA NO. 1 REYMA 40 PAQ/25 PZAS",
+        "minimo": 8.8
+    },
+    {
+        "clave": "CH4P",
+        "descripcion": "CHAROLA TERMICA 4P REYMA 1 PAQ/300 PZAS",
+        "minimo": 8.5
+    },
+    {
+        "clave": "CN8X8DNE",
+        "descripcion": "CONTENEDOR TERMICO 8X8 DIVISION NEGRO REYMA 2 PAQ/100 PZAS",
+        "minimo": 8.444444444444445
+    },
+    {
+        "clave": "CH007AZ",
+        "descripcion": "CHAROLA TERMICA 007 AZUL REYMA 1 PAQ/500 PZAS",
+        "minimo": 8.333333333333334
+    },
+    {
+        "clave": "CP1",
+        "descripcion": "CUCHARA PLASTICA PASTELERA NO. 1 REYMA 60 PAQ/50 PZAS",
+        "minimo": 8.222222222222221
+    },
+    {
+        "clave": "POCESCO22BIO",
+        "descripcion": "POPOTE BIODEGRADABLE CAJA ESTUCHADO CORRUGADO 22 CM 4 CJS/500 PZAS",
+        "minimo": 8.0
+    },
+    {
+        "clave": "BBC6090",
+        "descripcion": "BOLSA BAJA CORTADA 60 X 90 1 BTO/25 KGS",
+        "minimo": 7.955555555555555
+    },
+    {
+        "clave": "TRR",
+        "descripcion": "TAPA RANURADA P/ENVASES REYMA 20 PAQ/25 PZAS",
+        "minimo": 7.911111111111111
+    },
+    {
+        "clave": "PP5L",
+        "descripcion": "PLATO PLASTICO NO. 5 LISO REYMA 20 PAQ/25 PZAS",
+        "minimo": 7.7333333333333325
+    },
+    {
+        "clave": "BBR6090C250",
+        "descripcion": "BOLSA BAJA ROLLO 60 X 90 CAL. 250",
+        "minimo": 7.449999999999999
+    },
+    {
+        "clave": "BPF1832BIO",
+        "descripcion": "BOLSA POLISEDA FUELLE BIODEGRADABLE 18 X 32 25 PAQ/1 KG",
+        "minimo": 7.444444444444445
+    },
+    {
+        "clave": "R540BN",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-540 REYMA CON BASE NEGRA 1 PAQ/50 PZAS",
+        "minimo": 7.444444444444445
+    },
+    {
+        "clave": "BARCH2535ESP",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 25 X 35",
+        "minimo": 7.305555555555555
+    },
+    {
+        "clave": "BAFKBL3060",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA BLANCO 30 X 60 25 PAQ/1 KG",
+        "minimo": 7.199999999999999
+    },
+    {
+        "clave": "VP32EUBIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 32 EU REYMA 20 PAQ/25 PZAS",
+        "minimo": 7.199999999999999
+    },
+    {
+        "clave": "BBCK3550C400",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 35 X 50 CAL. 400 25 PAQ/1 KG",
+        "minimo": 7.111111111111111
+    },
+    {
+        "clave": "BPL2035C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 20X35 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 7.093333333333334
+    },
+    {
+        "clave": "BPRCH4060BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 40 X 60",
+        "minimo": 6.865555555555556
+    },
+    {
+        "clave": "EMPCNH10PBIO",
+        "descripcion": "EMPAQUE CAJA CONTENEDOR HAMBURGUESERO 10 PQTS/50PZS BIO",
+        "minimo": 6.666666666666667
+    },
+    {
+        "clave": "EMPV12EU",
+        "descripcion": "EMPAQUE PARA VASO 12 EU",
+        "minimo": 6.666666666666667
+    },
+    {
+        "clave": "VP51/2MC",
+        "descripcion": "VASO POLIPRO NO. 5 1/2 MULTICOLOR REYMA 20 PAQ/50 PZAS",
+        "minimo": 6.666666666666667
+    },
+    {
+        "clave": "R16",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-16 REYMA 1 PAQ/100 PZAS",
+        "minimo": 6.533333333333333
+    },
+    {
+        "clave": "CH9HBIO",
+        "descripcion": "CHAROLA TERMICA BIODEGRADABLE 9H REYMA 1 PAQ/200 PZAS",
+        "minimo": 6.518518518518518
+    },
+    {
+        "clave": "BPL1225C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 12X25 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 6.364444444444445
+    },
+    {
+        "clave": "BBR3550",
+        "descripcion": "BOLSA BAJA ROLLO 35 X 50",
+        "minimo": 6.358074074074074
+    },
+    {
+        "clave": "CN9X9LNE",
+        "descripcion": "CONTENEDOR TERMICO 9X9 LISO NEGRO REYMA 2 PAQ/100 PZAS",
+        "minimo": 6.355555555555556
+    },
+    {
+        "clave": "CFC45C10M06004BR1",
+        "descripcion": "CLINGFILM CUTTERBOX REYMA 45 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 6.2444444444444445
+    },
+    {
+        "clave": "BPRCH5070",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 50 X 70",
+        "minimo": 6.192222222222222
+    },
+    {
+        "clave": "BBCK5070SAURI",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 50 X 70 25 PAQ/1 KG",
+        "minimo": 6.148148148148148
+    },
+    {
+        "clave": "BPL1826C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 18X26 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 6.133333333333334
+    },
+    {
+        "clave": "CCM50TR",
+        "descripcion": "CUCHARA MEDIANA 10 PQ / 50 PZ TRANSPARENTE",
+        "minimo": 6.133333333333334
+    },
+    {
+        "clave": "CH9HAM",
+        "descripcion": "CHAROLA TERMICA 9H AMARILLA REYMA 1 PAQ/200 PZAS",
+        "minimo": 6.111111111111111
+    },
+    {
+        "clave": "CH855MAAQ",
+        "descripcion": "CHAROLA TERMICA 855 MARIEL ANAQUEL 25 PAQ/20 PZAS.",
+        "minimo": 5.888888888888889
+    },
+    {
+        "clave": "BBCK6090C400",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 60 X 90 CAL. 400 25 PAQ/1 KG",
+        "minimo": 5.777777777777778
+    },
+    {
+        "clave": "CH9HRS",
+        "descripcion": "CHAROLA TERMICA 9H ROSA REYMA 1 PAQ/200 PZAS",
+        "minimo": 5.555555555555555
+    },
+    {
+        "clave": "POGN26",
+        "descripcion": "POPOTE A GRANEL NATURAL 26 CM REYMA 5 PAQ/1 KG",
+        "minimo": 5.555555555555555
+    },
+    {
+        "clave": "BPL1425C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 14X25 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 5.528888888888889
+    },
+    {
+        "clave": "BBCK4060C400SAURI",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 40 X 60 CAL. 400 25 PAQ/1 KG",
+        "minimo": 5.333333333333333
+    },
+    {
+        "clave": "RB12X12",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-12X12 REYMA 1 PAQ/100 PZAS",
+        "minimo": 5.277777777777778
+    },
+    {
+        "clave": "LAC3030",
+        "descripcion": "LAMINA ALTA CORTADA 30 X 30 1 CJ/5 KGS",
+        "minimo": 5.185185185185186
+    },
+    {
+        "clave": "CCN100BC",
+        "descripcion": "CUCHARA NEVERA 20 PQ/100 PZ BLANCO",
+        "minimo": 5.111111111111111
+    },
+    {
+        "clave": "BBC5070C200",
+        "descripcion": "BOLSA BAJA CORTADA 50 X 70 CAL. 200 1 BTO/25 KGS",
+        "minimo": 5.066666666666666
+    },
+    {
+        "clave": "BAFK1832BIO",
+        "descripcion": "BOLSA ALTA FUELLE BIODEGRADABLE KILEADO 18X32 25 PAQ/1 KG",
+        "minimo": 4.844444444444445
+    },
+    {
+        "clave": "TP1214R",
+        "descripcion": "TAPA RANURADA P/VASO POLIPRO NO. 12/14 REYMA 20 PAQ/50 PZAS",
+        "minimo": 4.814814814814815
+    },
+    {
+        "clave": "CN9X9DNE",
+        "descripcion": "CONTENEDOR TERMICO 9X9 DIVISION NEGRO REYMA 2 PAQ/100 PZAS",
+        "minimo": 4.722222222222222
+    },
+    {
+        "clave": "VP16ABIO",
+        "descripcion": "VASO POLIPRO BIODEGRADABLE NO. 16 ANCHO REYMA 40 PAQ/25 PZAS",
+        "minimo": 4.722222222222222
+    },
+    {
+        "clave": "BPL1222C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 12X22 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 4.6755555555555555
+    },
+    {
+        "clave": "BBC5070C250",
+        "descripcion": "BOLSA BAJA CORTADA 50 X 70 CAL. 250 1 BTO/25 KGS",
+        "minimo": 4.518518518518518
+    },
+    {
+        "clave": "EMPCN9X9D4P",
+        "descripcion": "EMPAQUE CAJA CONTENEDOR 9X9 DIV. 4 PQTS/50PZS",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPCN9X9L4P",
+        "descripcion": "EMPAQUE CAJA CONTENEDOR 9X9 LISO 4 PQTS/50PZS",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPCNHD",
+        "descripcion": "EMPAQUE CONTENEDOR HOT DOG",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPV16A",
+        "descripcion": "EMPAQUE VASO NO. 16 ANCHO",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPV4CH",
+        "descripcion": "EMPAQUE VASO NO. 4CH",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPV7",
+        "descripcion": "EMPAQUE VASO NO. 7",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPVP10BIO",
+        "descripcion": "CAJA EMPAQUE VASO  POLIPRO NO. 10 BIODEGRADABLE 20 PAQ/50 PZAS",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPVP12BIO",
+        "descripcion": "EMPAQUE VASO POLIPRO NO. 12 BIODEGRADABLE",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPVP51/2BIO",
+        "descripcion": "EMPAQUE VASO POLIPRO NO. 5 1/2 BIODEGRADABLE",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "EMPVP8BIO",
+        "descripcion": "CAJA EMPAQUE VASO POLIPRO NO. 8 BIODEGRADABLE 20 PAQ/50 PZAS",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "POCR21",
+        "descripcion": "POPOTE EN CAJA RAYADO 21 CM REYMA 50 CAJAS/150 PZAS",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "R515BN",
+        "descripcion": "CONTENEDOR POLIESTIRENO R-515 REYMA CON BASE NEGRA 2 PAQ/25 PZAS",
+        "minimo": 4.444444444444445
+    },
+    {
+        "clave": "BPL3040C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 30X40 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 4.408888888888889
+    },
+    {
+        "clave": "CNT32OZ",
+        "descripcion": "CONTENEDOR TERMICO 32 OZ REYMA 20 PAQ/15 PZAS",
+        "minimo": 4.355555555555556
+    },
+    {
+        "clave": "VP8MC",
+        "descripcion": "VASO POLIPRO NO. 8 MULTICOLOR REYMA 20 PAQ/50 PZAS",
+        "minimo": 4.333333333333333
+    },
+    {
+        "clave": "BAFKNE1832",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA NEGRO 18 X 32 25 PAQ/1 KG",
+        "minimo": 4.266666666666667
+    },
+    {
+        "clave": "BAR1826",
+        "descripcion": "BOLSA ALTA ROLLO 18 X 26",
+        "minimo": 4.083555555555555
+    },
+    {
+        "clave": "BPL1020C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 10X20 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 4.017777777777777
+    },
+    {
+        "clave": "BPF2550BIO",
+        "descripcion": "BOLSA POLISEDA FUELLE BIODEGRADABLE 25 X 50 25 PAQ/1 KG",
+        "minimo": 4.0
+    },
+    {
+        "clave": "TARIMAS",
+        "descripcion": "TARIMAS",
+        "minimo": 4.0
+    },
+    {
+        "clave": "CTG25BC",
+        "descripcion": "TENEDOR GRANDE 20 PQ / 25 PZ BLANCO",
+        "minimo": 3.9444444444444446
+    },
+    {
+        "clave": "BBC5070C150",
+        "descripcion": "BOLSA BAJA CORTADA 50 X 70 CAL. 150 1 BTO/25 KGS",
+        "minimo": 3.888888888888889
+    },
+    {
+        "clave": "BBR2535CH",
+        "descripcion": "BOLSA BAJA ROLLO 25 X 35",
+        "minimo": 3.836111111111111
+    },
+    {
+        "clave": "BBCK5080",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 50 X 80 25 PAQ/1 KG",
+        "minimo": 3.8333333333333335
+    },
+    {
+        "clave": "BBR2030CH",
+        "descripcion": "BOLSA BAJA ROLLO 20 X 30",
+        "minimo": 3.822222222222222
+    },
+    {
+        "clave": "BPL816C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 8X16 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 3.822222222222222
+    },
+    {
+        "clave": "POGESCO22BIO",
+        "descripcion": "POPOTE BIODEGRADABLE GRANEL ESTUCHADO CORRUGADO 22 CM 1 CJ/2000 PZAS",
+        "minimo": 3.7777777777777777
+    },
+    {
+        "clave": "CH066MAAQ",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL ANAQUEL 25 PAQ/20 PZAS.",
+        "minimo": 3.6666666666666665
+    },
+    {
+        "clave": "CTM50TR",
+        "descripcion": "TENEDOR MEDIANO 10 PQ/50 PZ TRANSPARENTE",
+        "minimo": 3.466666666666667
+    },
+    {
+        "clave": "BPR6090",
+        "descripcion": "BOLSA POLISEDA ROLLO 60 X 90",
+        "minimo": 3.442592592592592
+    },
+    {
+        "clave": "BAFKNE3570",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA NEGRO 35 X 70 25 PAQ/1 KG",
+        "minimo": 3.388888888888889
+    },
+    {
+        "clave": "TRBIO",
+        "descripcion": "TAPA LISA BIODEGRADABLE P/ENVASES REYMA 20 PAQ/25 PZAS",
+        "minimo": 3.3333333333333335
+    },
+    {
+        "clave": "TVT10R",
+        "descripcion": "TAPA RANURADA P/VASO TERMICO NO. 10 REYMA 20 PAQ/50 PZAS",
+        "minimo": 3.3333333333333335
+    },
+    {
+        "clave": "VP80I36P01C036",
+        "descripcion": "PAÑUELO FACIAL INTERDOBLADO KIHARA 80 PZAS C/EMP. IND. 1 CAJA/36 PAQ.",
+        "minimo": 3.3333333333333335
+    },
+    {
+        "clave": "ENV1/2LTRBIO",
+        "descripcion": "ENVASE POLIPRO BIODEGRADABLE 1/2 LITRO REYMA 20 PAQ/25 PZAS",
+        "minimo": 3.3333333333333335
+    },
+    {
+        "clave": "BBR5080",
+        "descripcion": "BOLSA BAJA ROLLO 50 X 80",
+        "minimo": 3.3194444444444446
+    },
+    {
+        "clave": "CH8S",
+        "descripcion": "CHAROLA TERMICA 8S REYMA 1 PAQ/500 PZAS",
+        "minimo": 3.2
+    },
+    {
+        "clave": "TTVT1LTBIO",
+        "descripcion": "TAPA TERMICA BIODEGRADABLE P/VASO TERMICO 1 Y 1/2 LITRO REYMA 10 PAQ/50 PZAS",
+        "minimo": 3.1666666666666665
+    },
+    {
+        "clave": "CH2",
+        "descripcion": "CHAROLA TERMICA 2 REYMA 10 PAQ/50 PZAS",
+        "minimo": 3.1666666666666665
+    },
+    {
+        "clave": "BBR60100",
+        "descripcion": "BOLSA BAJA ROLLO 60 X 100",
+        "minimo": 3.072222222222222
+    },
+    {
+        "clave": "ENV1LTRBIO",
+        "descripcion": "ENVASE POLIPRO BIODEGRADABLE 1 LITRO REYMA 20 PAQ/25 PZAS",
+        "minimo": 3.066666666666667
+    },
+    {
+        "clave": "BARCH2030ESP",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 20 X 30",
+        "minimo": 3.0
+    },
+    {
+        "clave": "CH855AM",
+        "descripcion": "CHAROLA TERMICA 855 AMARILLA REYMA 1 PAQ/500 PZAS",
+        "minimo": 2.9629629629629632
+    },
+    {
+        "clave": "BPL1220C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 12X20 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 2.9155555555555552
+    },
+    {
+        "clave": "BBCK822",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 8 X 22 25 PAQ/1 KG",
+        "minimo": 2.888888888888889
+    },
+    {
+        "clave": "BPL2530C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 25X30 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 2.888888888888889
+    },
+    {
+        "clave": "CCG25NE",
+        "descripcion": "CUCHARA GRANDE 20 PQ / 25 PZ NEGRO",
+        "minimo": 2.8444444444444446
+    },
+    {
+        "clave": "CCH25NE",
+        "descripcion": "CUCHILLO 20 PQ / 25 PZ NEGRO",
+        "minimo": 2.8
+    },
+    {
+        "clave": "TTCN32OZ",
+        "descripcion": "TAPA TERMICA P/CONTENEDOR TERMICO 32 OZ REYMA 10 PAQ/50 PZAS",
+        "minimo": 2.7555555555555555
+    },
+    {
+        "clave": "CCG25TR",
+        "descripcion": "CUCHARA GRANDE 20 PQ / 25 PZ TRANSPARENTE",
+        "minimo": 2.711111111111111
+    },
+    {
+        "clave": "BARCH1525ESP",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 15 X 25",
+        "minimo": 2.7055555555555557
+    },
+    {
+        "clave": "CTG25NE",
+        "descripcion": "TENEDOR GRANDE 20 PQ / 25 PZ NEGRO",
+        "minimo": 2.6666666666666665
+    },
+    {
+        "clave": "BPL3545C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 35X45 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 2.6133333333333333
+    },
+    {
+        "clave": "RB200",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-200 REYMA 2 PAQ/100 PZAS",
+        "minimo": 2.5555555555555554
+    },
+    {
+        "clave": "BPL1520C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 15X20 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 2.453333333333333
+    },
+    {
+        "clave": "BPL816C35",
+        "descripcion": "BOLSA POLIPROPILENO LISA 8X16 CALIBRE 35 CAJA/10 KGS",
+        "minimo": 2.4444444444444446
+    },
+    {
+        "clave": "CCH25TR",
+        "descripcion": "CUCHILLO 20 PQ / 25 PZ TRANSPARENTE",
+        "minimo": 2.4444444444444446
+    },
+    {
+        "clave": "PP3",
+        "descripcion": "PLATO PLASTICO NO. 3 LISO REYMA 40 PAQ/25 PZAS",
+        "minimo": 2.4444444444444446
+    },
+    {
+        "clave": "BPL1015C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 10X15 CALIBRE 30 CAJA/10  KGS",
+        "minimo": 2.4000000000000004
+    },
+    {
+        "clave": "BAP912",
+        "descripcion": "BOLSA ALTA PALETERA 9 X 12",
+        "minimo": 2.3111111111111113
+    },
+    {
+        "clave": "BBC90120C250",
+        "descripcion": "BOLSA BAJA CORTADA 90 X 120 CAL. 250 1 BTO/25 KGS",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "BBCK2535BIO",
+        "descripcion": "BOLSA BAJA CORTADA BIODEGRADABLE KILEADA 25 X 35 25 PAQ/1 KG",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "BPF3060BIOIMP",
+        "descripcion": "BOLSA POLISEDA FUELLE BIODEGRADABLE IMPRESA 30 X 60 25 PAQ/1 KG",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "BBCK1020",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 10 X 20 25 PAQ/1 KG",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "CH855RS",
+        "descripcion": "CHAROLA TERMICA 855 ROSA REYMA 1 PAQ/500 PZAS",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "CCM50BIO",
+        "descripcion": "CUCHARA MEDIANA BIODEGRADABLE 10 PQ/50 PZ",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "CH066NE",
+        "descripcion": "CHAROLA TERMICA 066 NEGRA REYMA 1 PAQ/500 PZAS",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "CH855RJ",
+        "descripcion": "CHAROLA TERMICA 855 ROJA REYMA 1 PAQ/500 PZAS",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "CH9HAZ",
+        "descripcion": "CHAROLA TERMICA 9H AZUL REYMA 1 PAQ/200 PZAS",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "EMPR500",
+        "descripcion": "EMPAQUE DOMO R-500",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "EMPV10EU",
+        "descripcion": "EMPAQUE PARA VASO NO. 10 EU",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "EMPV24EU",
+        "descripcion": "EMPAQUE PARA VASO 24 EU",
+        "minimo": 2.2222222222222223
+    },
+    {
+        "clave": "CH855NE",
+        "descripcion": "CHAROLA TERMICA 855 NEGRA REYMA 1 PAQ/500 PZAS",
+        "minimo": 2.1666666666666665
+    },
+    {
+        "clave": "BPL4060C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 40X60 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 2.062222222222222
+    },
+    {
+        "clave": "CCH25BC",
+        "descripcion": "CUCHILLO 20 PQ / 25 PZ BLANCO",
+        "minimo": 2.0555555555555554
+    },
+    {
+        "clave": "S18C60P1200AZSC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1200 COLOR AZUL 4 ROLLOS",
+        "minimo": 1.9985679012345676
+    },
+    {
+        "clave": "BAFKBL1832",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA BLANCO 18 X 32 25 PAQ/1 KG",
+        "minimo": 1.9444444444444444
+    },
+    {
+        "clave": "CTG25TR",
+        "descripcion": "TENEDOR GRANDE 20 PQ / 25 PZ TRANSPARENTE",
+        "minimo": 1.8888888888888888
+    },
+    {
+        "clave": "PP5D",
+        "descripcion": "PLATO PLASTICO NO. 5 DIVISION REYMA 20 PAQ/25 PZAS",
+        "minimo": 1.8888888888888888
+    },
+    {
+        "clave": "CH066AM",
+        "descripcion": "CHAROLA TERMICA 066 AMARILLA REYMA 1 PAQ/500 PZAS",
+        "minimo": 1.6666666666666667
+    },
+    {
+        "clave": "BPRCH1826BIO",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO BIODEGRADABLE 18 X 26",
+        "minimo": 1.6444444444444446
+    },
+    {
+        "clave": "BAFKBL3570",
+        "descripcion": "BOLSA ALTA FUELLE KILEADA BLANCO 35 X 70 25 PAQ/1 KG",
+        "minimo": 1.6296296296296298
+    },
+    {
+        "clave": "CCM50BC",
+        "descripcion": "CUCHARA MEDIANA 10 PQ/50 PZ BLANCO",
+        "minimo": 1.6296296296296295
+    },
+    {
+        "clave": "BPL820C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 8X20 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 1.5822222222222222
+    },
+    {
+        "clave": "BBRCH1525",
+        "descripcion": "BOLSA BAJA ROLLO CHICO 15 X 25",
+        "minimo": 1.5555555555555556
+    },
+    {
+        "clave": "BARCH3040ESP",
+        "descripcion": "BOLSA ALTA ROLLO CHICO 30 X 40",
+        "minimo": 1.4444444444444444
+    },
+    {
+        "clave": "BBC815",
+        "descripcion": "BOLSA BAJA CORTADA 8 X 15 1 BTO/25 KGS",
+        "minimo": 1.4444444444444444
+    },
+    {
+        "clave": "BBC1025",
+        "descripcion": "BOLSA BAJA CORTADA 10 X 25 1 BTO/25 KGS",
+        "minimo": 1.3333333333333333
+    },
+    {
+        "clave": "BPL610C25",
+        "descripcion": "BOLSA POLIPROPILENO LISA 6X10 CALIBRE 25 CAJA/10 KGS",
+        "minimo": 1.3333333333333333
+    },
+    {
+        "clave": "POGESN21",
+        "descripcion": "POPOTE A GRANEL ESTUCHADO NATURAL 21 CM REYMA 1 CAJA/2000 PZAS",
+        "minimo": 1.3333333333333333
+    },
+    {
+        "clave": "BPL1025C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 10X25 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 1.2977777777777777
+    },
+    {
+        "clave": "CCM50NE",
+        "descripcion": "CUCHARA MEDIANA 10 PQ/50 PZ NEGRO",
+        "minimo": 1.2777777777777777
+    },
+    {
+        "clave": "CTM50NE",
+        "descripcion": "TENEDOR MEDIANO 10 PQ/50 PZ NEGRO",
+        "minimo": 1.2222222222222223
+    },
+    {
+        "clave": "BBR3040BIO",
+        "descripcion": "BOLSA BAJA ROLLO BIODEGRADABLE 30 X 40",
+        "minimo": 1.1833333333333333
+    },
+    {
+        "clave": "BPF14+7X32C30",
+        "descripcion": "BOLSA POLIPROPILENO FUELLE 14+7X32 CALIBRE 30 CAJA/5 KGS",
+        "minimo": 1.1466666666666667
+    },
+    {
+        "clave": "S18C60P1200RJSC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1200 COLOR ROJO 4 ROLLOS",
+        "minimo": 1.1146913580246913
+    },
+    {
+        "clave": "BPRCH3040CH",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 30 X 40",
+        "minimo": 1.1111111111111112
+    },
+    {
+        "clave": "BPF2540BIO",
+        "descripcion": "BOLSA POLISEDA FUELLE BIODEGRADABLE 25 X 40 25 PAQ/1 KG",
+        "minimo": 1.1111111111111112
+    },
+    {
+        "clave": "TP32EURBIO",
+        "descripcion": "TAPA RANURADA BIODEGRADABLE P/VASO POLIPRO NO. 32 EU REYMA 20 PAQ/25 PZAS",
+        "minimo": 1.1111111111111112
+    },
+    {
+        "clave": "BPL826C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 8X26 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 1.0666666666666667
+    },
+    {
+        "clave": "BPL1422C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 14X22 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 1.0
+    },
+    {
+        "clave": "BPL2235C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 22X35 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.9244444444444445
+    },
+    {
+        "clave": "BPRCH2535CH",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 25 X 35",
+        "minimo": 0.9166666666666666
+    },
+    {
+        "clave": "BBC1220",
+        "descripcion": "BOLSA BAJA CORTADA 12 X 20 1 BTO/25 KGS",
+        "minimo": 0.8888888888888888
+    },
+    {
+        "clave": "BBCK1222",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA 12 X 22 25 PAQ/1 KG",
+        "minimo": 0.8888888888888888
+    },
+    {
+        "clave": "BPL1828C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 18X28 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.8888888888888888
+    },
+    {
+        "clave": "BPL520C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 5X20 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.8888888888888888
+    },
+    {
+        "clave": "BBC812",
+        "descripcion": "BOLSA BAJA CORTADA 8 X 12 1 BTO/25 KGS",
+        "minimo": 0.8888888888888888
+    },
+    {
+        "clave": "BPF10+6X30C30",
+        "descripcion": "BOLSA POLIPROPILENO FUELLE 10+6X30 CALIBRE 30 CAJA/5 KGS",
+        "minimo": 0.8088888888888889
+    },
+    {
+        "clave": "BPRCH2030CH",
+        "descripcion": "BOLSA POLISEDA ROLLO CHICO 20 X 30",
+        "minimo": 0.8055555555555556
+    },
+    {
+        "clave": "POGESCOB22",
+        "descripcion": "POPOTE A GRANEL ESTUCHADO CORRUGADO BLANCO 22 CM REYMA 1 CAJA/2000 PZAS",
+        "minimo": 0.7407407407407408
+    },
+    {
+        "clave": "BBCK1525BIO",
+        "descripcion": "BOLSA BAJA CORTADA BIODEGRADABLE KILEADA 15 X 25 25 PAQ/1 KG",
+        "minimo": 0.7407407407407407
+    },
+    {
+        "clave": "BBCK3040BIO",
+        "descripcion": "BOLSA BAJA CORTADA BIODEGRADABLE KILEADA 30 X 40 25 PAQ/1 KG",
+        "minimo": 0.6666666666666666
+    },
+    {
+        "clave": "BBCK5070BIO",
+        "descripcion": "BOLSA BAJA CORTADA BIODEGRADABLE KILEADA 50 X 70 25 PAQ/1 KG",
+        "minimo": 0.6666666666666666
+    },
+    {
+        "clave": "CH855MA",
+        "descripcion": "CHAROLA TERMICA 855 MARIEL  10 PAQ/50 PZAS",
+        "minimo": 0.6666666666666666
+    },
+    {
+        "clave": "POGESCON22",
+        "descripcion": "POPOTE A GRANEL ESTUCHADO CORRUGADO NATURAL 22 CM REYMA 1 CAJA/2000 PZAS",
+        "minimo": 0.6666666666666666
+    },
+    {
+        "clave": "DH600I06P05B030",
+        "descripcion": "PAPEL HIGIENICO KOVU 600 HOJAS C/EMP. IND. 5 PAQ/6 ROLLOS",
+        "minimo": 0.6666666666666666
+    },
+    {
+        "clave": "BPF9+6X22C30",
+        "descripcion": "BOLSA POLIPROPILENO FUELLE 9+6X22 CALIBRE 30 CAJA/5 KGS",
+        "minimo": 0.6044444444444445
+    },
+    {
+        "clave": "BPL614C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 6X14 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.5925925925925927
+    },
+    {
+        "clave": "BPL812C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 8X12 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.5555555555555556
+    },
+    {
+        "clave": "BPL610C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 6X10 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.5333333333333333
+    },
+    {
+        "clave": "BPL2540C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 25X40 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.48000000000000004
+    },
+    {
+        "clave": "S18C60P1200NESC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1200 COLOR NEGRO 4 ROLLOS",
+        "minimo": 0.4765432098765432
+    },
+    {
+        "clave": "CFC30C10M06004XN1",
+        "descripcion": "CLINGFILM CUTTERBOX REYMA 30 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "BBCK2030BIO",
+        "descripcion": "BOLSA BAJA CORTADA BIODEGRADABLE KILEADA 20 X 30 25 PAQ/1 KG",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "BBCKNE80120ESP",
+        "descripcion": "BOLSA BAJA CORTADA KILEADA NEGRA 80 X 120 CON CARBONATO 25 PAQ/1 KG",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "CH066MA",
+        "descripcion": "CHAROLA TERMICA 066 MARIEL 10 PAQ/50 PZAS",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "PORTANUCLEO",
+        "descripcion": "PORTANUCLEO DE 3/4 1.5 PULGADAS 1 BTO/6 PIEZAS",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "RB9X9",
+        "descripcion": "CONTENEDOR POLIESTIRENO RB-9X9 REYMA 2 PAQ/100 PZAS",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "TVT12A",
+        "descripcion": "TAPA LISA P/VASO TERMICO NO. 12A REYMA 20 PAQ / 25 PZAS",
+        "minimo": 0.4444444444444444
+    },
+    {
+        "clave": "BPF7+3X21C30",
+        "descripcion": "BOLSA POLIPROPILENO FUELLE 7+3X21 CALIBRE 30 CAJA/5 KGS",
+        "minimo": 0.41777777777777775
+    },
+    {
+        "clave": "BPF13+7X36C30",
+        "descripcion": "BOLSA POLIPROPILENO FUELLE 13+7X36 CALIBRE 30 CAJA/5 KGS",
+        "minimo": 0.4088888888888889
+    },
+    {
+        "clave": "BPL5070C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 50X70 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.4
+    },
+    {
+        "clave": "MCFI45C10M06004RSU1",
+        "descripcion": "MUESTRA CLINGFILM INDUSTRIAL REYMA 45 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 0.39666666666666667
+    },
+    {
+        "clave": "DH300N04P10B040",
+        "descripcion": "PAPEL HIGIENICO KOVU 300 HOJAS 10 PAQ/4 ROLLOS",
+        "minimo": 0.3888888888888889
+    },
+    {
+        "clave": "S18C60P1200AMSC",
+        "descripcion": "STRETCH 18 CAL 60 PIES 1200 COLOR AMARILLO 4 ROLLOS",
+        "minimo": 0.36296296296296293
+    },
+    {
+        "clave": "MS18C60P1200SC",
+        "descripcion": "MUESTRA STRETCH 18 CAL 60 PIES 1200 4 ROLLOS",
+        "minimo": 0.3604938271604939
+    },
+    {
+        "clave": "BPL1117C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 11X17 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.35555555555555557
+    },
+    {
+        "clave": "BPL1420C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 14X20 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.35555555555555557
+    },
+    {
+        "clave": "BPL4050C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 40X50 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.3259259259259259
+    },
+    {
+        "clave": "MCFI38C10M06004RSU1",
+        "descripcion": "MUESTRA CLINGFILM INDUSTRIAL REYMA 38 X 600 CAL 10 TUBO 4 MM 1 ROLLO",
+        "minimo": 0.3111111111111111
+    },
+    {
+        "clave": "BPL812C35",
+        "descripcion": "BOLSA POLIPROPILENO LISA 8X12 CALIBRE 35 CAJA/10 KGS",
+        "minimo": 0.29629629629629634
+    },
+    {
+        "clave": "BPL1530C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 15X30 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.29629629629629634
+    },
+    {
+        "clave": "MS18C60P1200AZSC",
+        "descripcion": "MUESTRA STRETCH 18 CAL 60 PIES 1200 COLOR AZUL 4 ROLLOS",
+        "minimo": 0.23209876543209879
+    },
+    {
+        "clave": "MS18C60P1200RJ",
+        "descripcion": "MUESTRA STRETCH 18 CAL 60 PIES 1200 1 ROLLO COLOR ROJO",
+        "minimo": 0.23209876543209879
+    },
+    {
+        "clave": "BAP812",
+        "descripcion": "BOLSA ALTA PALETERA 8 X 12",
+        "minimo": 0.2222222222222222
+    },
+    {
+        "clave": "CTM50BC",
+        "descripcion": "TENEDOR MEDIANO 10 PQ/50 PZ BLANCO",
+        "minimo": 0.2222222222222222
+    },
+    {
+        "clave": "MS18C60P1000SC",
+        "descripcion": "MUESTRA STRETCH 18 CAL 60 PIES 1000 4 ROLLOS",
+        "minimo": 0.19506172839506172
+    },
+    {
+        "clave": "BPL1015C25AD3",
+        "descripcion": "BOLSA POLIPROPILENO 10X15 CALIBRE 25 CON ADHESIVO Y PESTAÑA DE 3 CM CAJA/10 KGS",
+        "minimo": 0.17777777777777778
+    },
+    {
+        "clave": "BPL1313C25AD3",
+        "descripcion": "BOLSA POLIPROPILENO 13X13 CALIBRE 25 CON ADHESIVO Y PESTAÑA DE 3 CM CAJA/10 KGS",
+        "minimo": 0.17777777777777778
+    },
+    {
+        "clave": "BPL2515C25AD3",
+        "descripcion": "BOLSA POLIPROPILENO 25X15 CALIBRE 25 CON ADHESIVO Y PESTAÑA DE 3 CM CAJA/10 KGS",
+        "minimo": 0.17777777777777778
+    },
+    {
+        "clave": "BPL4070C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 40X70 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.17777777777777778
+    },
+    {
+        "clave": "MS18C60P800SC",
+        "descripcion": "MUESTRA STRETCH 18 CAL 60 PIES 800 4 ROLLOS",
+        "minimo": 0.1580246913580247
+    },
+    {
+        "clave": "BPL1520C25AD3",
+        "descripcion": "BOLSA POLIPROPILENO 15X20 CALIBRE 25 CON ADHESIVO Y PESTAÑA DE 3 CM CAJA/10 KGS",
+        "minimo": 0.13333333333333333
+    },
+    {
+        "clave": "BPL810C25AD3",
+        "descripcion": "BOLSA POLIPROPILENO 8X10 CALIBRE 25 CON ADHESIVO Y PESTAÑA DE 3 CM CAJA/10 KGS",
+        "minimo": 0.13333333333333333
+    },
+    {
+        "clave": "MSP17.5C28P1000SC",
+        "descripcion": "MUESTRA STRETCH  PREESTIRADO 17.5 CAL 28 PIES 1000 4 ROLLOS",
+        "minimo": 0.09135802469135804
+    },
+    {
+        "clave": "BPL2845C30",
+        "descripcion": "BOLSA POLIPROPILENO LISA 28X45 CALIBRE 30 CAJA/10 KGS",
+        "minimo": 0.08888888888888889
+    },
+    {
+        "clave": "CFI35C10M06006DBC",
+        "descripcion": "CLINGFILM INDUSTRIAL DON BOLSÓN 35 X 600 CAL 10 TUBO 6 MM 1 ROLLO P/CAJA",
+        "minimo": 0.0
+    },
+    {
+        "clave": "CFI38C10M06006DBC",
+        "descripcion": "CLINGFILM INDUSTRIAL DON BOLSÓN 38 X 600 CAL 10 TUBO 6 MM 1 ROLLO P/CAJA",
+        "minimo": 0.0
+    }
+]
