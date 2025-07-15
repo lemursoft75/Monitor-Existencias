@@ -1,8 +1,8 @@
-from flask import Flask, request, render_template, redirect, send_file
+import streamlit as st
 import pandas as pd
 import json, os
 
-app = Flask(__name__)
+# Carpetas
 UPLOAD_FOLDER = 'uploads'
 DATA_FOLDER = 'data'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -12,72 +12,86 @@ minimos_json_path = os.path.join(DATA_FOLDER, 'minimos.json')
 existencia_file = os.path.join(UPLOAD_FOLDER, 'existencia_real.xlsx')
 resultado_excel = os.path.join(DATA_FOLDER, 'alertas.xlsx')
 
-@app.route('/', methods=['GET', 'POST'])
-def monitor_existencias():
-    alertas = []
-    mensaje_success = None
-    mensaje_error = None
+st.set_page_config(page_title="Monitor de Existencias Reyma", layout="centered")
+st.title("📦 Monitor de Existencias Reyma del Sureste")
 
-    if request.method == 'POST':
-        archivo = request.files.get('archivo')
-        accion = request.form.get('accion')
+# 🧭 Instrucciones
+with st.expander("🧭 Instrucciones de uso"):
+    st.markdown("""
+    **1. Cargar archivo `minimos.xlsx`**  
+    Formato: columnas `clave`, `descripcion`, `minimo`. Solo vuelve a subirlo si hay cambios.
 
-        # Acción: limpiar solo existencia
-        if accion == 'limpiar':
-            if os.path.exists(existencia_file):
-                os.remove(existencia_file)
-            mensaje_success = "🧹 Archivo de existencia eliminado. Los mínimos permanecen guardados."
-            return render_template("inventario.html", productos=[], mensaje_success=mensaje_success)
+    **2. Cargar archivo `existencia_real.xlsx`**  
+    Se usa la columna número 6 como `"Final Estimado"`.
 
-        # Acción: exportar a Excel
-        elif accion == 'exportar':
-            if os.path.exists(resultado_excel):
-                return send_file(resultado_excel, as_attachment=True)
+    **3. Ver Alertas**  
+    Aparecerán las claves cuyo stock esté en el mínimo o por debajo.
+
+    **4. Exportar a Excel**  
+    Si hay alertas, puedes descargarlas como archivo Excel.
+
+    **5. Limpiar archivo de existencias**  
+    Elimina el archivo `existencia_real.xlsx` sin afectar `minimos.json`.
+    """)
+
+# 📁 Cargar 'minimos.xlsx'
+st.subheader("📁 Cargar archivo de mínimos")
+archivo_minimos = st.file_uploader("Sube el archivo minimos.xlsx", type="xlsx")
+
+if archivo_minimos:
+    df_minimos = pd.read_excel(archivo_minimos, engine="openpyxl")
+    if all(col in df_minimos.columns for col in ['clave', 'descripcion', 'minimo']):
+        with open(minimos_json_path, 'w', encoding='utf-8') as f:
+            json.dump(df_minimos.to_dict(orient='records'), f, indent=4, ensure_ascii=False)
+        st.success("✅ Archivo de mínimos cargado correctamente.")
+    else:
+        st.error("❌ El archivo no contiene las columnas requeridas: clave, descripcion, minimo.")
+
+# 📥 Cargar 'existencia_real.xlsx'
+st.subheader("📥 Cargar archivo de existencia real")
+archivo_existencia = st.file_uploader("Sube existencia_real.xlsx", type="xlsx")
+
+if archivo_existencia:
+    with open(existencia_file, 'wb') as f:
+        f.write(archivo_existencia.getbuffer())
+    st.success("📄 Archivo de existencia cargado correctamente.")
+
+# 🧹 Limpiar existencia_real.xlsx
+if st.button("🧹 Limpiar archivo de existencia"):
+    if os.path.exists(existencia_file):
+        os.remove(existencia_file)
+        st.success("Archivo de existencia eliminado.")
+    else:
+        st.warning("No hay archivo de existencia para eliminar.")
+
+# 🚨 Comparar cantidades y mostrar alertas
+if os.path.exists(minimos_json_path) and os.path.exists(existencia_file):
+    try:
+        with open(minimos_json_path, 'r', encoding='utf-8') as f:
+            df_minimos = pd.DataFrame(json.load(f))
+        df_existencia = pd.read_excel(existencia_file, engine="openpyxl")
+
+        if df_existencia.shape[1] >= 6:
+            df_existencia = df_existencia.iloc[:, [0, 5]]
+            df_existencia.columns = ['clave', 'cantidad']
+            combinado = pd.merge(df_minimos, df_existencia, on='clave')
+            alertas = combinado[combinado['cantidad'] <= combinado['minimo']]
+
+            if not alertas.empty:
+                st.subheader("🚨 Claves por debajo del mínimo")
+                st.dataframe(alertas, height=400)
+                alertas.to_excel(resultado_excel, index=False, engine="openpyxl")
+
+                with open(resultado_excel, "rb") as f:
+                    st.download_button(
+                        label="📥 Descargar resultados en Excel",
+                        data=f,
+                        file_name="alertas.xlsx",
+                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                    )
             else:
-                mensaje_error = "❌ No hay resultados para exportar."
-                return render_template("inventario.html", productos=[], mensaje_error=mensaje_error)
-
-        # Acción: subir archivo
-        elif archivo:
-            nombre = archivo.filename.lower()
-            if 'minimos' in nombre and archivo.filename.endswith('.xlsx'):
-                df_minimos = pd.read_excel(archivo)
-                if all(col in df_minimos.columns for col in ['clave', 'descripcion', 'minimo']):
-                    minimos_dict = df_minimos.to_dict(orient='records')
-                    with open(minimos_json_path, 'w', encoding='utf-8') as f:
-                        json.dump(minimos_dict, f, indent=4, ensure_ascii=False)
-                    mensaje_success = "✅ Archivo 'minimos' cargado correctamente."
-                else:
-                    mensaje_error = "❌ Error: El archivo 'minimos.xlsx' no contiene las columnas requeridas."
-                return render_template("inventario.html", productos=alertas, mensaje_success=mensaje_success, mensaje_error=mensaje_error)
-
-            elif 'existencia' in nombre and archivo.filename.endswith('.xlsx'):
-                archivo.save(existencia_file)
-                return redirect('/')
-
-    # Comparación si ambos existen
-    if os.path.exists(minimos_json_path) and os.path.exists(existencia_file):
-        try:
-            with open(minimos_json_path, 'r', encoding='utf-8') as f:
-                minimos_df = pd.DataFrame(json.load(f))
-            existencia = pd.read_excel(existencia_file)
-
-            if existencia.shape[1] >= 6:
-                existencia = existencia.iloc[:, [0, 5]]
-                existencia.columns = ['clave', 'cantidad']
-                combinado = pd.merge(minimos_df, existencia, on='clave')
-                resultado_df = combinado[combinado['cantidad'] <= combinado['minimo']]
-                alertas = resultado_df.to_dict(orient='records')
-
-                # Guardar resultado como Excel
-                if not resultado_df.empty:
-                    resultado_df.to_excel(resultado_excel, index=False)
-            else:
-                mensaje_error = "❌ Error: El archivo 'existencia_real.xlsx' no contiene al menos 6 columnas."
-        except Exception as e:
-            mensaje_error = f"❌ Error inesperado: {str(e)}"
-
-    return render_template("inventario.html", productos=alertas, mensaje_success=mensaje_success, mensaje_error=mensaje_error)
-
-if __name__ == '__main__':
-    app.run(debug=True)
+                st.success("🟢 Todas las existencias están por encima del mínimo.")
+        else:
+            st.error("❌ El archivo existencia_real.xlsx tiene menos de 6 columnas.")
+    except Exception as e:
+        st.error(f"❌ Error inesperado al comparar: {str(e)}")
