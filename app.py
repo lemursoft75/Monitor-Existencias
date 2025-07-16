@@ -1,10 +1,14 @@
 import streamlit as st
 import pandas as pd
-import json, os
+import json
+import os
 
-# Carpetas
-UPLOAD_FOLDER = 'uploads'
-DATA_FOLDER = 'data'
+# ---------------------------
+# 📂 Configuración de carpetas
+# ---------------------------
+BASE_DIR = os.path.dirname(__file__)
+UPLOAD_FOLDER = os.path.join(BASE_DIR, 'uploads')
+DATA_FOLDER = os.path.join(BASE_DIR, 'data')
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(DATA_FOLDER, exist_ok=True)
 
@@ -12,14 +16,19 @@ minimos_json_path = os.path.join(DATA_FOLDER, 'minimos.json')
 existencia_file = os.path.join(UPLOAD_FOLDER, 'existencia_real.xlsx')
 resultado_excel = os.path.join(DATA_FOLDER, 'alertas.xlsx')
 
+# ---------------------------
+# 🌟 Configuración de página
+# ---------------------------
 st.set_page_config(page_title="Monitor de Existencias Reyma", layout="centered")
 st.title("📦 Monitor de Existencias Reyma del Sureste")
 
+# ---------------------------
 # 🧭 Instrucciones
+# ---------------------------
 with st.expander("🧭 Instrucciones de uso"):
     st.markdown("""
     **1. Cargar archivo `minimos.xlsx`**  
-    Formato: columnas `clave`, `descripcion`, `minimo`. Solo vuelve a subirlo si hay cambios.
+    Formato: columnas `clave`, `descripcion`, `minimo`.
 
     **2. Cargar archivo `existencia_real.xlsx`**  
     Se usa la columna número 6 como `"Final Estimado"`.
@@ -34,20 +43,27 @@ with st.expander("🧭 Instrucciones de uso"):
     Elimina el archivo `existencia_real.xlsx` sin afectar `minimos.json`.
     """)
 
+# ---------------------------
 # 📁 Cargar 'minimos.xlsx'
+# ---------------------------
 st.subheader("📁 Cargar archivo de mínimos")
 archivo_minimos = st.file_uploader("Sube el archivo minimos.xlsx", type="xlsx")
 
 if archivo_minimos:
-    df_minimos = pd.read_excel(archivo_minimos, engine="openpyxl")
-    if all(col in df_minimos.columns for col in ['clave', 'descripcion', 'minimo']):
-        with open(minimos_json_path, 'w', encoding='utf-8') as f:
-            json.dump(df_minimos.to_dict(orient='records'), f, indent=4, ensure_ascii=False)
-        st.success("✅ Archivo de mínimos cargado correctamente.")
-    else:
-        st.error("❌ El archivo no contiene las columnas requeridas: clave, descripcion, minimo.")
+    try:
+        df_minimos = pd.read_excel(archivo_minimos, engine="openpyxl")
+        if all(col in df_minimos.columns for col in ['clave', 'descripcion', 'minimo']):
+            with open(minimos_json_path, 'w', encoding='utf-8') as f:
+                json.dump(df_minimos.to_dict(orient='records'), f, indent=4, ensure_ascii=False)
+            st.success("✅ Archivo de mínimos cargado correctamente.")
+        else:
+            st.error("❌ El archivo no contiene las columnas requeridas: clave, descripcion, minimo.")
+    except Exception as e:
+        st.error(f"❌ Error al cargar mínimos: {str(e)}")
 
+# ---------------------------
 # 📥 Cargar 'existencia_real.xlsx'
+# ---------------------------
 st.subheader("📥 Cargar archivo de existencia real")
 archivo_existencia = st.file_uploader("Sube existencia_real.xlsx", type="xlsx")
 
@@ -56,32 +72,38 @@ if archivo_existencia:
         f.write(archivo_existencia.getbuffer())
     st.success("📄 Archivo de existencia cargado correctamente.")
 
+# ---------------------------
 # 🧹 Limpiar existencia_real.xlsx
+# ---------------------------
 if st.button("🧹 Limpiar archivo de existencia"):
     if os.path.exists(existencia_file):
         os.remove(existencia_file)
-        st.success("Archivo de existencia eliminado.")
+        st.success("✅ Archivo de existencia eliminado.")
     else:
-        st.warning("No hay archivo de existencia para eliminar.")
+        st.warning("⚠️ No hay archivo de existencia para eliminar.")
 
+# ---------------------------
 # 🚨 Comparar cantidades y mostrar alertas
+# ---------------------------
 if os.path.exists(minimos_json_path) and os.path.exists(existencia_file):
     try:
         with open(minimos_json_path, 'r', encoding='utf-8') as f:
             df_minimos = pd.DataFrame(json.load(f))
+
         df_existencia = pd.read_excel(existencia_file, engine="openpyxl")
 
         if df_existencia.shape[1] >= 6:
             df_existencia = df_existencia.iloc[:, [0, 5]]
             df_existencia.columns = ['clave', 'cantidad']
-            combinado = pd.merge(df_minimos, df_existencia, on='clave')
+
+            combinado = pd.merge(df_minimos, df_existencia, on='clave', how='inner')
             alertas = combinado[combinado['cantidad'] <= combinado['minimo']]
 
             if not alertas.empty:
                 st.subheader("🚨 Claves por debajo del mínimo")
                 st.dataframe(alertas, height=400)
-                alertas.to_excel(resultado_excel, index=False, engine="openpyxl")
 
+                alertas.to_excel(resultado_excel, index=False, engine="openpyxl")
                 with open(resultado_excel, "rb") as f:
                     st.download_button(
                         label="📥 Descargar resultados en Excel",
@@ -95,3 +117,5 @@ if os.path.exists(minimos_json_path) and os.path.exists(existencia_file):
             st.error("❌ El archivo existencia_real.xlsx tiene menos de 6 columnas.")
     except Exception as e:
         st.error(f"❌ Error inesperado al comparar: {str(e)}")
+else:
+    st.info("⚠️ Carga ambos archivos para ver las alertas.")
