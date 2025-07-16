@@ -4,5 +4,5 @@ openpyxl==3.1.2
 numpy==1.24.4
 pandas==2.0.3
 pyarrow==14.0.2
-setuptools==78.1.1
-wheel==0.41.2
+setuptools>=80
+wheel>=0.45
